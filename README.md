@@ -1,12 +1,12 @@
 # French SPC
 
-French Summaries of Product Characteristics (SPC) are available on the [ANSM's website](https://base-donnees-publique.medicaments.gouv.fr/) in a HTML or PDF format (from the European Medicines Agency)  .  
+A Summary of Product Characteristics (SPC) is a document describing the properties and the officially approved conditions of use of a medicine. It explains how to use and prescribe a medicine. 
 
-In the context of medical informatics research in natural language processing and information extraction, it is necessary to create a create a corpus of semi-structured information. 
+French SPC are available on the https://base-donnees-publique.medicaments.gouv.fr/ website in a HTML or PDF format when it comes from the European Medicines Agency.  
 
-This repository contains the source code to download French SPC and extract their content. 
-
-If you are only interested by the corpus (not by the program to create this corpus), go to the **python** directory. 
+In the context of medical informatics, natural language processing and information extraction research, it is useful to build a corpus about approved medicinal products. 
+This repository contains the source code to build this corpus but not the corpus itself. 
+If you are interested by the corpus go to the **python** directory. 
 
 
 ## Folder and files
@@ -22,10 +22,8 @@ If you are only interested by the corpus (not by the program to create this corp
 They are three Java programs:
 
 * Transform PDF files to txt files
-* Extract the content of Txt files
-* Extract the content of HTML files
-
-A Java program is in charge of parsing the content of HTML files and extracting their content. First, you need to compile the project with Maven. 
+* Extract the content of SPC in txt format
+* Extract the content of SPC in HTML format
 
 ```bash
 mvn clean package ./java
