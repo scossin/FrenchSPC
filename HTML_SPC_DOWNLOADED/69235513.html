@@ -1,0 +1,1048 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+	<title>Résumé des caractéristiques du produit - ALLOPURINOL CRISTERS 100 mg, comprimé  - Base de données publique des médicaments</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"/>
+	<meta name="robots" content="index, follow"/>
+	<meta name="Description" content="Base de données publique des médicaments"/>
+	<meta name="Keywords" content="base, données, publique, médicaments, Résumé des caractéristiques du produit, ALLOPURINOL CRISTERS 100 mg, comprimé "/>
+	<meta name="Subject" content="medicament"/>
+	<link href='http://fonts.googleapis.com/css?family=Noticia+Text' rel='stylesheet' type='text/css' />
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css' />
+	<link href="style/style_bdm.css" type="text/css" rel="stylesheet"/>
+	<link href="style/style_RCP_Notice.css" type="text/css" rel="stylesheet"/>
+  <link rel="alternate" href="http://m.base-donnees-publique.medicaments.gouv.fr/#!info-69235513">
+	<script type="text/javascript" src="scripts/autocomplete.js"></script>
+	<script type="text/javascript" src="scripts/common.js"></script>
+	<link rel="icon" type="image/x-icon" href="favicon.ico" />
+</head>
+
+<body>
+<!-- Suivi Google Analytics -->
+<a name="HautDePage" />
+<div id="bandeauhaut">
+	<a id="lien_ministere" class="lienmenu" href="http://www.sante.gouv.fr" target="_blank" title="Site du ministère des affaires sociale et de la santé - nouvelle fenêtre"><img id="logoministere" src="img/Logo_Ministere.jpg"  alt="Logo du ministère des affaires sociale et de la santé"/></a>
+	<h1 class="texteTitreSite">
+		Base <span class="texteBleu">de</span> données <span class="texteBleu">publique</span><br/><span class="texteBleu">des</span> médicaments
+	</h1>
+		<a id="lien_medicament_gouv" class="lienEspaceMedic" target="_blank" href="http://medicaments.gouv.fr" title="Visiter [medicaments.gouv.fr] - nouvelle fenêtre">Visiter [medicaments.gouv.fr] <img src="/img/icone_lien.png" alt="Visiter [medicaments.gouv.fr]"  title="Visiter [medicaments.gouv.fr] - nouvelle fenêtre" /></a>
+</div>
+<!--div align="center">
+	<a id="banniere" target="_blank" href="http://social-sante.gouv.fr/soins-et-maladies/medicaments/medicaments-generiques/" title="Visiter [medicaments.gouv.fr] - Médicaments génériques">
+		<img width="1000"   src ="/img/carrouselbannieres.gif" alt="Visiter [medicaments.gouv.fr] - Médicaments génériques" title="Visiter [medicaments.gouv.fr] - Médicaments génériques" />
+	</a>
+</div-->
+<div id="menuhaut">
+	<span id="menuhaut_gauche">
+		<a id="lien_accueil" class="navigation" href="index.php">Accueil</a>&nbsp;|&nbsp;
+		<a id="lien_glossaire" class="navigation" href="glossaire.php">Glossaire</a>&nbsp;|&nbsp;
+		<a id="lien_aide" class="navigation" href="aide.php">Aide</a>		
+	</span>
+	
+		
+	<span id="menuhaut_dernmaj">
+        Dernière <span title=" 2.1.0
+">mise à jour</span> le 22/06/2018	</span>
+</div>
+
+	<script language="javascript" type="text/javascript">
+		//<![CDATA[ 
+		function Aff(men) {
+			document.write("<ul class=\"menuDoc\">");
+			for(var no_rub=0;no_rub<men.num_rub;no_rub++) {
+				document.write("<li><a class='leftMenu' href='"+menu[no_rub].page+"'>");
+				document.write(men[no_rub].txt);
+				document.write("</a></li>");
+				if (men[no_rub].nb_lien != 0){
+					document.write("<ul class=\"sousMenuDoc\">");
+				}
+				for(var no_lien=0;no_lien<men[no_rub].nb_lien;no_lien++) {
+					document.write("<li><a class='leftMenu' href='"+men[no_rub][no_lien].page+"'>");
+					document.write(men[no_rub][no_lien].txt);
+					document.write("</a></li>");
+				}
+				if (men[no_rub].nb_lien != 0){
+					document.write("</ul>");
+				}
+			}
+			document.write("</ul>");
+		}
+		
+		function CreerMenu(police,imgRub,imgOption,imgOptionFin,hauteur) {
+			this.num_rub=0;
+			this.police=police;
+			this.imgRub=imgRub;
+			this.imgOpt=imgOption;
+			this.imgOptFin=imgOptionFin;
+			this.hauteur=hauteur;
+			this.AddRub=AddRub;
+			this.AddLien=AddLien;
+		}
+		
+		function AddRub(txt,aff,page) {
+			var rub = new Object;
+				rub.txt=txt;
+				rub.aff=aff;
+				rub.page=page;
+				rub.nb_lien=0;
+			this[this.num_rub]=rub;
+			this.num_rub++;
+		}
+
+		function AddLien(txt,page) {
+			var no_rub = this.num_rub-1;
+			var no_lien= this[no_rub].nb_lien;
+			var lien = new Object;
+				lien.txt=txt;
+				lien.page=page;
+			this[no_rub][no_lien]=lien;
+			this[no_rub].nb_lien++;
+		}
+		var menu=new CreerMenu("arial","img/dyn04.gif","img/dyn22.gif","img/dyn55.gif",18);
+		//]]> 
+		menu.AddRub("Dénomination","O","#RcpDenomination");
+			menu.AddRub("Composition","O","#RcpCompoQualiQuanti");
+			menu.AddRub("Forme pharma.","O","#RcpFormePharm");
+			menu.AddRub("Clinique","O","#RcpDonneesCliniques");
+			menu.AddLien("Indic. thérapeutiques","#RcpIndicTherap");
+				menu.AddLien("Posologie","#RcpPosoAdmin");
+				menu.AddLien("Contre-indications","#RcpContreindications");
+				menu.AddLien("Mise en garde","#RcpMisesEnGarde");
+				menu.AddLien("Interactions","#RcpInteractionsMed");
+				menu.AddLien("Grossesse, allait.","#RcpFertGrossAllait");
+				menu.AddLien("Conduite véhicules","#RcpConduite");
+				menu.AddLien("Effets indésirables","#RcpEffetsIndesirables");
+				menu.AddLien("Surdosage","#RcpSurdosage");
+				menu.AddRub("Pharmacologie","O","#RcpPropPharmacologiques");
+			menu.AddLien("Pharmacodynamie","#RcpPropPharmacodynamiques");
+				menu.AddLien("Pharmacocinétique","#RcpPropPharmacocinetiques");
+				menu.AddLien("Sécurité préclinique","#RcpSecuritePreclinique");
+				menu.AddRub("Pharmaceutique","O","#RcpDonneesPharmaceutiques");
+			menu.AddLien("Liste excipients","#RcpListeExcipients");
+				menu.AddLien("Incompatibilités","#RcpIncompatibilites");
+				menu.AddLien("Durée conservation","#RcpDureeConservation");
+				menu.AddLien("Conservation","#RcpPrecConservation");
+				menu.AddLien("Emballage","#RcpEmballage");
+				menu.AddLien("Utilisation/manipulation","#RcpPrecEmpl");
+				menu.AddRub("Titulaire AMM","O","#RcpTitulaireAmm");
+			menu.AddRub("Présentations","O","#RcpNumAutor");
+			menu.AddRub("Autorisation, renouv.","O","#RcpPremiereAutorisation");
+			menu.AddRub("Date de révision","O","#RcpDateRevision");
+			menu.AddRub("Dosimétrie","O","#RcpDosimetrie");
+			menu.AddRub("Préparation radiopharma.","O","#RcpInstPrepRadioph");
+				</script>
+
+	<div id="container">
+		<div id="leftnav">
+			<div id="cadreMenuGauche">
+				<h2 class="sommaireMenu">Sommaire</h2>
+				<div id="menuGauche">
+					<script language="JavaScript" type="text/javascript">Aff(menu);</script>
+				</div>
+			</div>
+		</div>
+		<div id="contentPrincipal">
+			<div id="boutonsliens">
+				<a id='lien_fiche_info' href='extrait.php?specid=69235513' ><img id="ongletficheinfo" alt="Onglet fiche information" src="img/onglet_fiche_info_vert.png" /></a><a id='lien_rcp' href='affichageDoc.php?specid=69235513&amp;typedoc=R'><img class="onglet" alt="Onglet résumé des caractéristiques du produit" src="img/onglet_rcp_gris.png" /></a><a id='lien_notice' href='affichageDoc.php?specid=69235513&amp;typedoc=N'><img class="onglet" alt="Onglet notice patient" src="img/onglet_notice_vert.png" /></a>			</div>
+			<div class="titredeno">
+				<table summary="" border="0" cellspacing="0">
+					<tr><td colspan="3" height="10px"></td></tr>
+					<tr>
+						<td width="15px">&nbsp;</td>
+						<td width="685px"><h1 class="textedeno">ALLOPURINOL CRISTERS 100 mg, comprimé  - Résumé des caractéristiques du produit</h1></td>
+						<td width="43px" class="tdcenter"><a href="Javascript:void(null)" onclick="print();"><img src="img/imprimante.png" height="20px" width="20px" alt="Imprimer le document" title="Imprimer le document" border="0" /></a></td>
+					</tr>
+					<tr><td colspan="3" height="10px"></td></tr>
+				</table>
+			</div>
+			
+			<div id="contentDocument">
+				<div id="textDocument">
+					<p class="DateNotif">ANSM - Mis à jour le : 21/09/2017</p>
+<p class="AmmAnnexeTitre1"><a name="RcpDenomination">1. DENOMINATION DU MEDICAMENT</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexteGras>ALLOPURINOL CRISTERS 100 mg, comprimé</p>
+<div style='border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
+<p class=AmmCorpsTexteGras style='margin-bottom:0cm;margin-bottom:.0001pt; border:none;padding:0cm'>L’allopurinol peut provoquer des toxidermies graves, incluant des syndromes de Lyell ou de Stevens-Johnson et des syndromes de DRESS<span class='italique'> (Drug Rash with Eosinophilia and Systemic Symptoms)</span>. Elles peuvent se manifester par des éruptions cutanées. Elles peuvent survenir à n’importe quel moment du traitement mais le plus souvent dans les deux mois qui suivent l’instauration du traitement.</p>
+<p class=AmmCorpsTexteGras style='margin-bottom:0cm;margin-bottom:.0001pt; border:none;padding:0cm'>Il convient de rappeler aux patients traités par l’allopurinol qu’en cas de survenue d’une éruption cutanée ou d’autres signes d’hypersensibilité (atteinte des muqueuses oculaire, buccale ou génitale, fièvre, adénopathies, érosion cutanée), l’allopurinol doit IMMEDIATEMENT être arrêté et qu’un avis médical doit être pris.</p>
+</div>
+<p class="AmmAnnexeTitre1"><a name="RcpCompoQualiQuanti">2. COMPOSITION QUALITATIVE ET QUANTITATIVE</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmComposition>Allopurinol ..................................................................................................................... 100,00 mg</p>
+<p class=AmmCorpsTexte align=center style='text-align:center'>Pour un comprimé.</p>
+<p class=AmmCorpsTexte>Excipient à effet notoire : Chaque comprimé contient 60 mg de lactose monohydraté.</p>
+<p class=AmmCorpsTexte>Pour la liste complète des excipients, voir rubrique 6.1.</p>
+<p class="AmmAnnexeTitre1"><a name="RcpFormePharm">3. FORME PHARMACEUTIQUE</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte><a name="_Toc142278915">Comprimé.</a></p>
+<p class=AmmCorpsTexte>Comprimé blanc, rond, biconvexe, gravé « 4K1 » sur une face.</p>
+<p class="AmmAnnexeTitre1"><a name="RcpDonneesCliniques">4. DONNEES CLINIQUES</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class="AmmAnnexeTitre2"><a name="RcpIndicTherap">4.1. Indications thérapeutiques</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmListePuces1><a name="_Toc142278917"></a><a name="_Toc142278908"><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>Traitement des hyperuricémies symptomatiques primitives ou secondaires (hémopathies, néphropathies, hyperuricémie iatrogène).</a></p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>Traitement de la goutte : goutte tophacée, crise de goutte récidivante, arthropathie uratique même lorsqu'elle s'accompagne d'hyperuraturie, de lithiase urique ou d'insuffisance rénale.</p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>Traitement des hyperuricuries et hyperuraturies.</p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>Traitement et prévention de la lithiase urique.</p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>Prévention des récidives de lithiase calcique chez les patients hyperuricémiques ou hyperuricuriques, en complément des précautions diététiques habituelles, portant notamment sur les rations protidique et calcique.</p>
+<p class=AmmCorpsTexte> </p>
+<p class="AmmAnnexeTitre2"><a name="RcpPosoAdmin">4.2. Posologie et mode d'administration</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmAnnexeTitre3><a name="_Toc142278918"><span lang=FR-BE>Posologie</span></a></p>
+<p class=AmmAnnexeTitre4><span lang=FR-BE>Adultes</span></p>
+<p class=AmmCorpsTexte>La posologie usuelle doit être déterminée en fonction de l'uricémie qui doit être régulièrement contrôlée.</p>
+<p class=AmmCorpsTexte>Afin de limiter le risque de toxidermie grave, le traitement doit être débuté à une posologie initiale de 100 mg/jour, qui sera progressivement augmentée tous les 1 à 2 mois jusqu’à atteindre la dose permettant le maintien de l’uricémie en dessous de 420 µmol/l (70 mg/l).</p>
+<p class=AmmCorpsTexte>Chez l’adulte, la posologie usuelle varie de 2 à 10 mg/kg/jour soit 100 à 200 mg par jour dans les cas légers, 300 à 600 mg par jour dans les cas modérés ou 700 à 900 mg par jour dans les cas sévères.</p>
+<p class=AmmAnnexeTitre4>Population pédiatrique</p>
+<p class=AmmCorpsTexte>Chez l’enfant, la posologie usuelle varie de 10 à 20 mg/kg/jour sans dépasser la dose de 400 mg par jour fractionnée en 3 prises.</p>
+<p class=AmmAnnexeTitre4>Sujets âgés et Insuffisants rénaux</p>
+<p class=AmmCorpsTexte>Il est recommandé avant la prescription de rechercher une insuffisance rénale, notamment chez les sujets plus âgés. L’allopurinol et ses métabolites sont excrétés par les reins ; une insuffisance rénale peut provoquer une rétention du médicament et/ou de ses métabolites avec comme conséquence un allongement des demi-vies plasmatiques.</p>
+<p class=AmmCorpsTexte>La posologie doit être adaptée en fonction de la clairance de la créatinine.</p>
+<table class=AmmCorpsTexteTable border=0 cellspacing=0 cellpadding=0
+style='border-collapse:collapse'>
+<thead>
+<tr>
+<td width=307 style='width:229.95pt;border:solid windowtext 1.0pt;
+padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte align=center style='margin-top:3.0pt;margin-right:0cm; margin-bottom:3.0pt;margin-left:0cm;text-align:center'><span class='gras'><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Clairance de la créatinine</span></span></p>
+</td>
+<td width=307 style='width:230.55pt;border:solid windowtext 1.0pt;
+border-left:none;padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte align=center style='margin-top:3.0pt;margin-right:0cm; margin-bottom:3.0pt;margin-left:0cm;text-align:center'><span class='gras'><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Dose maximale préconisée</span></span></p>
+</td>
+</tr>
+<tr>
+<td width=307 valign=top style='width:229.95pt;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte align=center style='margin-top:3.0pt;margin-right:0cm; margin-bottom:3.0pt;margin-left:0cm;text-align:center'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>80 &lt; Cl Cr &lt; 100 ml/mn</span></p>
+</td>
+<td width=307 valign=top style='width:230.55pt;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte align=center style='margin-top:3.0pt;margin-right:0cm; margin-bottom:3.0pt;margin-left:0cm;text-align:center'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>300 mg/j</span></p>
+</td>
+</tr>
+<tr>
+<td width=307 valign=top style='width:229.95pt;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte align=center style='margin-top:3.0pt;margin-right:0cm; margin-bottom:3.0pt;margin-left:0cm;text-align:center'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>40 &lt; Cl Cr &lt; 80 ml/mn</span></p>
+</td>
+<td width=307 valign=top style='width:230.55pt;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte align=center style='margin-top:3.0pt;margin-right:0cm; margin-bottom:3.0pt;margin-left:0cm;text-align:center'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>200 mg/j</span></p>
+</td>
+</tr>
+<tr>
+<td width=307 valign=top style='width:229.95pt;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte align=center style='margin-top:3.0pt;margin-right:0cm; margin-bottom:3.0pt;margin-left:0cm;text-align:center'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>20 &lt; Cl Cr &lt; 40 ml/mn</span></p>
+</td>
+<td width=307 valign=top style='width:230.55pt;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte align=center style='margin-top:3.0pt;margin-right:0cm; margin-bottom:3.0pt;margin-left:0cm;text-align:center'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>100 mg/j</span></p>
+</td>
+</tr>
+<tr>
+<td width=307 valign=top style='width:229.95pt;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte align=center style='margin-top:3.0pt;margin-right:0cm; margin-bottom:3.0pt;margin-left:0cm;text-align:center'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Cl Cr &lt; 20 ml/mn</span></p>
+</td>
+<td width=307 valign=top style='width:230.55pt;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte align=center style='margin-top:3.0pt;margin-right:0cm; margin-bottom:3.0pt;margin-left:0cm;text-align:center'><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>100 mg/1 jour sur 2</span></p>
+</td>
+</tr>
+</thead>
+</table>
+<p class=AmmCorpsTexte> </p>
+<p class=AmmCorpsTexte>La posologie doit être ajustée de façon à maintenir l'uricémie dans la zone souhaitée.</p>
+<p class=AmmCorpsTexte>Si des infrastructures sont disponibles pour suivre les concentrations plasmatiques d’oxypurinol, la dose doit être ajustée pour maintenir les taux plasmatiques d’oxypurinol en-dessous de 100 micromoles/litre (15,2 mg/litre).</p>
+<p class=AmmAnnexeTitre4>Dialyse </p>
+<p class=AmmCorpsTexte>Chez l'insuffisant rénal dialysé, la prescription d'allopurinol est généralement inutile du fait de l'épuration d'acide urique par la dialyse. Dans des cas exceptionnels où ce traitement apparaît cependant nécessaire, l'allopurinol pourra être donné à la fin des séances d'hémodialyse sans dépasser la dose de 200 mg par séance.</p>
+<p class=AmmCorpsTexte>Cette spécialité existe sous forme de dosages à 200 et 300 mg qui peuvent être mieux adaptés.</p>
+<p class=AmmAnnexeTitre4>Insuffisants hépatiques</p>
+<p class=AmmCorpsTexte>Des doses réduites doivent être utilisées chez les patients atteints d’insuffisance hépatique. </p>
+<p class=AmmCorpsTexte>Il est recommandé de contrôler périodiquement la fonction hépatique au cours des stades précoces du traitement.</p>
+<p class=AmmAnnexeTitre3>Recommandation en matière de surveillance</p>
+<p class=AmmCorpsTexte>La posologie doit être ajustée en surveillant les concentrations sériques d’urates et les taux urinaires d’urates/acide urique à des intervalles de temps appropriés.</p>
+<p class=AmmAnnexeTitre3>Mode d'administration</p>
+<p class=AmmCorpsTexte>Voie orale.</p>
+<p class=AmmCorpsTexte>Les comprimés sont à avaler tels quels avec un grand verre d'eau, après les repas. Au cas où la posologie quotidienne doit être supérieure à 300 mg et en cas d’intolérance gastro-intestinale manifeste, il peut être opportun de fractionner les doses.</p>
+<p class="AmmAnnexeTitre2"><a name="RcpContreindications">4.3. Contre-indications</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte><a name="_Toc142278919">Ce médicament est contre indiqué :</a></p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>en cas d'hypersensibilité à l'allopurinol ou à l'un des excipients mentionnés à la rubrique 6.1,</p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>chez l'enfant de moins de 6 ans (contre-indication liée à la forme pharmaceutique),</p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>en association avec l’azathioprine, mercaptopurine (cytostatiques-antimétabolites)</p>
+<p class="AmmAnnexeTitre2"><a name="RcpMisesEnGarde">4.4. Mises en garde spéciales et précautions d'emploi</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmAnnexeTitre3><a name="_Toc142278920">Mises en garde spéciales</a></p>
+<div style='border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt'>
+<p class=AmmCorpsTexteGras style='border:none;padding:0cm'>L'hyperuricémie asymptomatique n'est pas une indication au traitement par allopurinol.</p>
+</div>
+<p class=AmmAnnexeTitre4>Syndrome d’hypersensibilité, syndrome de Stevens-Johnson (SSJ) et nécrolyse épidermique toxique (NET)</p>
+<p class=AmmCorpsTexte>Les réactions d’hypersensibilité à l’allopurinol peuvent se manifester de différentes façons, notamment exanthème maculo-papuleux, syndrome d’hypersensibilité (DRESS) et SSJ/NET. Ces réactions sont caractérisées par des diagnostics cliniques et leur tableau clinique reste le fondement de la prise de décision. Si de telles réactions surviennent à tout moment en cours de traitement, l’allopurinol doit être immédiatement interrompu. Une réintroduction du médicament ne doit pas être entreprise chez des patients atteints d’un syndrome d’hypersensibilité et d’un SSJ/NET. Les corticostéroïdes peuvent se révéler utiles pour prendre en charge les réactions cutanées d’hypersensibilité </p>
+<p class=AmmCorpsTexte><span class='souligne'>Allèle HLA-B*5801</span></p>
+<p class=AmmCorpsTexte>L’allèle HLA-B*5801 s’est avéré associé au risque de présenter un syndrome d’hypersensibilité et un SSJ/une NET lié à l’allopurinol. La fréquence de l’allèle HLA-B*5801 varie fortement entre les groupes ethniques : jusqu’à 20 % dans l’ethnie chinoise Han, environ 12 % dans la population coréenne et chez 1 à 2 % des individus d’origine japonaise ou européenne. L’utilisation du génotypage en tant qu’outil diagnostique permettant de prendre les décisions de traitement par allopurinol n’a pas été établie. S’il est avéré que le patient est porteur de l’allèle HLA-B*5801, l’utilisation d’allopurinol peut être envisagée si l’on pense que les bénéfices sont supérieurs aux risques. Une vigilance supplémentaire est requise pour détecter tout signe de syndrome d’hypersensibilité et de SSJ/NET et le patient doit être informé de la nécessité d’arrêter le traitement immédiatement dès la première apparition des symptômes.</p>
+<p class=AmmAnnexeTitre4>Lactose</p>
+<p class=AmmCorpsTexte>Ce médicament contient du lactose. Son utilisation est déconseillée chez les patients présentant une intolérance au galactose, un déficit en lactase de Lapp ou un syndrome de malabsorption du glucose ou du galactose (maladies héréditaires rares).</p>
+<p class=AmmAnnexeTitre3>Précautions d'emploi</p>
+<p class=AmmAnnexeTitre4>Crises aiguës de goutte</p>
+<p class=AmmCorpsTexte>Ne jamais commencer un traitement par l'allopurinol lors d'une crise aiguë de goutte.</p>
+<p class=AmmCorpsTexte>Chez les patients atteints de goutte, un traitement par AINS à faibles doses quotidiennes ou par la colchicine (0,5 mg à 1 mg par jour, selon l’état de la fonction rénale) doit être systématiquement associé à l'allopurinol durant les 6 premiers mois de traitement, afin d'éviter le déclenchement d'une crise aiguë. Pour certains patients, cette prophylaxie peut être maintenue au-delà, jusqu’à disparition des tophus.</p>
+<p class=AmmCorpsTexte>L'uricémie doit être vérifiée à intervalles réguliers.</p>
+<p class=AmmAnnexeTitre4>Déposition de xanthine</p>
+<p class=AmmCorpsTexte>Dans les pathologies où le taux de formation d’urates est très augmenté, par exemple le syndrome de Lesch-Nyhan ou le lymphome, une diurèse abondante sera assurée afin d'éviter la survenue de lithiase xanthique.</p>
+<p class=AmmCorpsTexte>Chez les patients atteints d'hémopathies malignes, il est recommandé de corriger l'hyperuricémie existante avant d'initier le traitement par les cytotoxiques.</p>
+<p class=AmmAnnexeTitre4>Insuffisance rénale ou hépatique</p>
+<p class=AmmCorpsTexte>Des doses réduites doivent être utilisées chez des patients atteints d’insuffisance hépatique ou rénale. Les patients traités pour une hypertension ou une insuffisance cardiaque, par exemple par des diurétiques ou des IEC, peuvent avoir de façon concomitante une altération de la fonction rénale et par conséquent, l’allopurinol doit être utilisé avec précaution dans ce groupe.</p>
+<p class=AmmCorpsTexte>Une insuffisance rénale chronique et une utilisation concomitante de diurétiques, en particulier de diurétiques thiazidiques, ont été associées à un risque accru de SSJ/NET induit par l’allopurinol, et à d’autres réactions d’hypersensibilité graves.</p>
+<p class=AmmAnnexeTitre4>Hyperuricémie asymptomatique</p>
+<p class=AmmCorpsTexte>Une hyperuricémie proprement dite<span class='italique'> </span>asymptomatique n’est généralement pas considérée comme une <span class=ammcorpstextecar0>indication de l’utilisation de l’allopurinol. Un apport liquidien et une modification du régime alimentaire, associés à une prise en charge de la cause sous-jacente, peuvent corriger cet état pathologique.</span></p>
+<p class=AmmAnnexeTitre4>Impact des calculs rénaux d’acide urique</p>
+<p class=AmmCorpsTexte>Un traitement approprié par l’allopurinol provoquera une dissolution des gros calculs pelviens d’acide urique, avec la possibilité d’impact au niveau de l’urètre.</p>
+<p class=AmmAnnexeTitre4>Evaluation de la fonction thyroïdienne</p>
+<p class=AmmCorpsTexte>Une augmentation des taux de TSH (&gt; 5,5 µUI/ml) a été observée chez les patients sous traitement au long cours par allopurinol (5,8 %) dans une étude d’extension en ouvert à long terme.<span style='color:red'> </span>Dans l’état actuel des connaissances, il n’y a pas été retrouvé d’impact clinique à cette augmentation.</p>
+<p class="AmmAnnexeTitre2"><a name="RcpInteractionsMed">4.5. Interactions avec d'autres médicaments et autres formes d'interactions</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmAnnexeTitre3>Associations contre-indiquées</p>
+<p class=AmmCorpsTexteGras>+ Antipurines (azathioprine, mercaptopurine)</p>
+<p class=AmmCorpsTexte>Insuffisance médullaire mais éventuellement grave</p>
+<p class=AmmAnnexeTitre3>Associations déconseillées</p>
+<p class=AmmCorpsTexteGras>+ Vidarabine</p>
+<p class=AmmCorpsTexte>Des données suggèrent que la demi-vie plasmatique de la vidarabine est augmentée en présence d’allopurinol. Lors de l’utilisation concomitante des deux produits, une extrême vigilance s’impose, afin de repérer les effets toxiques accrus.</p>
+<p class=AmmCorpsTexte>Risque accru de troubles neurologiques (tremblements, confusion) par inhibition partielle du métabolisme de l'anti-viral.</p>
+<p class=AmmCorpsTexteGras>+ Cyclophosphamide, doxorubicine, bléomycine, procarbazine, méchloroéthamine</p>
+<p class=AmmCorpsTexte>Des cas de suppression accrue de la moelle osseuse par le cyclophosphamide et d’autres agents cytotoxiques ont été signalés chez des patients atteints de pathologie néoplasique (autre qu’une leucémie) en présence d’allopurinol. Cependant dans le cadre d’une étude bien contrôlée de patients traités par cyclophosphamide, doxorubicine, bléomycine, procarbazine et/ou méchloréthamine (chlorhydrate de mustine), l’allopurinol n’a pas semblé accroître la réaction toxique de ces agents cytotoxiques.</p>
+<p class=AmmCorpsTexteGras>+ Ciclosporine</p>
+<p class=AmmCorpsTexte><span class=ammcorpstextecar0>Des rapports suggèrent que la concentration plasmatique de la ciclosporine pourrait être augmentée au cours d’un traitement concomitant par l’allopurinol. Il convient de tenir compte de la possibilité</span> d’une toxicité accrue de la ciclosporine en cas de co-administration de ces médicaments. </p>
+<p class=AmmCorpsTexteGras>+ Didanosine</p>
+<p class=AmmCorpsTexte>Chez des volontaires sains et chez des patients présentant une infection par le VIH qui recevaient de la didanosine, la Cmax plasmatique et les valeurs de l’ASC de la didanosine étaient pratiquement doublées en cas de traitement concomitant par l’allopurinol (300 mg par jour), sans effet sur la demi-vie terminale. Par conséquent, il peut être nécessaire de réduire les doses de didanosine en cas d’utilisation concomitante d’allopurinol.</p>
+<p class=AmmAnnexeTitre3>Associations faisant l'objet de précautions d’emploi</p>
+<p class=AmmCorpsTexteGras>+ Anticoagulants oraux</p>
+<p class=AmmCorpsTexte>Augmentation de l'effet de l'anticoagulant oral et du risque hémorragique (diminution de son métabolisme hépatique).</p>
+<p class=AmmCorpsTexte>Contrôle plus fréquent du taux de prothrombine et surveillance de l'INR. Adapter la posologie de l'anticoagulant oral pendant le traitement par l'allopurinol et 8 jours après son arrêt.</p>
+<p class=AmmCorpsTexteGras>+ Chlorpropamide</p>
+<p class=AmmCorpsTexte>Risque d'hypoglycémie sévère chez l'insuffisant rénal (augmentation parfois importante de la demi-vie du chlorpropamide par compétition au niveau de la sécrétion tubulaire rénale).</p>
+<p class=AmmCorpsTexte>Renforcer l'auto-surveillance glycémique. Adapter éventuellement la posologie du chlorpropamide pendant le traitement par l'allopurinol.</p>
+<p class=AmmCorpsTexteGras>+ Théophyllines (et par extrapolation, aminophylline)</p>
+<p class=AmmCorpsTexte>En cas de posologies élevées en allopurinol, augmentation de la concentration plasmatique de théophylline par inhibition de son métabolisme. Surveillance clinique et contrôle de la théophyllinémie jusqu'à deux ou trois semaines après la mise en route du traitement par l'allopurinol ; s'il y a lieu, adaptation de la posologie pendant le traitement par l'allopurinol.</p>
+<p class=AmmCorpsTexteGras>+ Salicylates et agents uricosuriques </p>
+<p class=AmmCorpsTexte>L’oxypurinol, le métabolite principal de l’allopurinol et lui-même actif sur le plan thérapeutique, est éliminé par le rein de manière similaire à celle des urates. Par conséquent, les médicaments qui ont une action uricosurique tels que le probénécide ou les salicylés à hautes doses, sont susceptibles d’accélérer l’élimination de l’oxypurinol. Cela peut réduire l’effet thérapeutique de l’allopurinol, mais la portée de cette interaction doit être évaluée au cas par cas. </p>
+<p class=AmmAnnexeTitre3>Associations à prendre en compte</p>
+<p class=AmmCorpsTexteGras>+ Ampicilline et amoxicilline</p>
+<p class=AmmCorpsTexte>Il existe un <span style='color:black'>risque accru de réactions cutanées</span> chez les patients traités par l’ampicilline ou l’amoxicilline. La cause de cette association signalée n’a pas été établie. Il est cependant recommandé d’utiliser chez les patients sous allopurinol, une alternative au traitement par l’ampicilline ou l’amoxicilline, lorsque cela est possible.</p>
+<p class=AmmCorpsTexteGras><a name="_Toc142278928"></a><a name="_Toc142278926"></a><a name="_Toc142278925">+ Phénytoïne</a></p>
+<p class=AmmCorpsTexte>L’allopurinol pourrait inhiber l’oxydation hépatique de la phénytoïne mais la signification clinique n’a pas été démontrée. </p>
+<p class=AmmCorpsTexteGras>+ Diurétiques</p>
+<p class=AmmCorpsTexte>Une interaction entre l’allopurinol et le furosémide responsable d’une augmentation des concentrations sériques d’urates et des concentrations plasmatiques d’oxipurinol, a été signalée. </p>
+<p class=AmmCorpsTexte>Une augmentation du risque d’hypersensibilité a été signalée lors de la prise simultanée d’allopurinol et de diurétiques, en particulier de diurétiques thiazidiques, spécialement dans l’insuffisance rénale.</p>
+<p class=AmmCorpsTexteGras>+ Inhibiteurs de l’enzyme de conversion de l’angiotensine (IEC)</p>
+<p class=AmmCorpsTexte>Une augmentation du risque d’hypersensibilité a été signalée lors de la prise simultanée d’allopurinol et d’IEC en particulier dans l’insuffisance rénale.</p>
+<p class="AmmAnnexeTitre2"><a name="RcpFertGrossAllait">4.6. Fertilité, grossesse et allaitement</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmAnnexeTitre3>Grossesse</p>
+<p class=AmmCorpsTexte>Les études chez l'animal ont mis en évidence un effet tératogène dans une espèce et à doses élevées (voir rubrique 5.3).</p>
+<p class=AmmCorpsTexte>Il n'existe pas actuellement de données en nombre suffisant pour évaluer un éventuel effet malformatif ou fœtotoxique de l'allopurinol lorsqu'il est administré en cours de grossesse.</p>
+<p class=AmmCorpsTexte>Une élévation de l'acide urique est fréquemment observée au cours des toxémies gravidiques mais ne nécessite pas de traitement spécifique.</p>
+<p class=AmmCorpsTexte><a name="_Toc142278927">Au cours de la grossesse, il ne doit être utilisé qu’en l’absence d’alternative de traitement plus sûr et lorsque la pathologie en elle-même comporte des risques pour la mère ou l’enfant à naître.<span style='color:black'> Cet élément ne constitue pas l'argument systématique pour conseiller une interruption de grossesse mais conduit à une attitude de prudence et à une surveillance prénatale orientée.</span></a></p>
+<p class=AmmAnnexeTitre3>Allaitement</p>
+<p class=AmmCorpsTexte>Les données indiquent que l’allopurinol et l’oxypurinol sont excrétés dans le lait maternel. Des concentrations de 1,4 mg/litre d’allopurinol et de 53,7 mg/litre d’oxypurinol ont été mises en évidence dans le lait maternel chez des femmes prenant de l’allopurinol à raison de 300 mg/jour. </p>
+<p class=AmmCorpsTexte>Il n’existe cependant aucune donnée concernant les effets de l’allopurinol ou de ses métabolites sur le bébé allaité</p>
+<p class="AmmAnnexeTitre2"><a name="RcpConduite">4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte><a name="_Toc142278929"><span style='color:black'>Prévenir les patients de la survenue possible de vertiges</span>, somnolence et ataxie. Les patients doivent faire preuve de prudence avant de conduire, d’utiliser des machines ou de participer à des activités dangereuses, et ce, jusqu’à ce qu’ils soient raisonnablement certains que l’allopurinol n’altère pas leurs performances.</a></p>
+<p class="AmmAnnexeTitre2"><a name="RcpEffetsIndesirables">4.8. Effets indésirables</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte>La fréquence de ces effets indésirables a été établie à partir des données post-marketing.</p>
+<p class=AmmCorpsTexte>Les effets indésirables ci-dessous sont classés par système organe et par fréquence, selon la convention suivante :</p>
+<table class=AmmCorpsTexteTable border=1 cellspacing=0 cellpadding=0
+style='border-collapse:collapse;border:none'>
+<thead>
+<tr>
+<td width=109 valign=top style='width:81.5pt;border:solid windowtext 1.0pt;
+padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte>Très fréquent :</p>
+</td>
+<td width=127 valign=top style='width:95.1pt;border:solid windowtext 1.0pt;
+border-left:none;padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte>&#8805; 1/10</p>
+</td>
+</tr>
+<tr>
+<td width=109 valign=top style='width:81.5pt;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte>Fréquent :</p>
+</td>
+<td width=127 valign=top style='width:95.1pt;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte>&#8805; 1/100 et &lt; 1/10</p>
+</td>
+</tr>
+<tr>
+<td width=109 valign=top style='width:81.5pt;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte>Peu fréquent :</p>
+</td>
+<td width=127 valign=top style='width:95.1pt;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte>&#8805; 1/1000 et &lt; 1/100</p>
+</td>
+</tr>
+<tr>
+<td width=109 valign=top style='width:81.5pt;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte>Rare :</p>
+</td>
+<td width=127 valign=top style='width:95.1pt;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte>&#8805; 1/10000 et &lt; 1/1000</p>
+</td>
+</tr>
+<tr>
+<td width=109 valign=top style='width:81.5pt;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte>Très rare :</p>
+</td>
+<td width=127 valign=top style='width:95.1pt;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 3.5pt 0cm 3.5pt'>
+<p class=AmmCorpsTexte>&lt; 1/10000</p>
+</td>
+</tr>
+</thead>
+</table>
+<p class=AmmCorpsTexte>Les effets indésirables associés à l’allopurinol sont rares dans la population globale traitée, et sont généralement de nature mineure. L’incidence est plus élevée en présence d’une pathologie rénale et/ou hépatique.</p>
+<p class=AmmCorpsTexteGras>Tableau des effets indésirables</p>
+<table class=AmmCorpsTexteTable border=0 cellspacing=0 cellpadding=0 width="100%"
+style='width:100.0%;margin-left:.1pt;border-collapse:collapse'>
+<tr>
+<td width="100%" colspan=3 valign=top style='width:100.0%;border:none;
+border-bottom:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'></td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexteGras><span class='souligne'>Classe de systèmes d’organes</span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexteGras><span class='souligne'>Fréquence</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexteGras><span class='souligne'>Réaction indésirable</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Infections et infestations</span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Furoncle</span></p>
+</td>
+</tr>
+<tr style='height:16.0pt'>
+<td width="40%" rowspan=2 valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:16.0pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections hématologiques et du système lymphatique </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt;height:16.0pt'>
+<p class=AmmCorpsTexte><span class='italique'>Rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt;height:16.0pt'>
+<p class=AmmCorpsTexte><span class='italique'>Thrombocytopénie<sup>1</sup></span></p>
+<p class=AmmCorpsTexte><span class='italique'>Agranulocytose<sup>1</sup></span></p>
+<p class=AmmCorpsTexte><span class='italique'>Leucopénie<sup>1</sup></span></p>
+<p class=AmmCorpsTexte><span class='italique'>Anémie<sup>1</sup></span></p>
+<p class=AmmCorpsTexte><span class='italique'>Pancytopénie<sup>1</sup></span></p>
+</td>
+</tr>
+<tr style='height:15.95pt'>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt;height:15.95pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt;height:15.95pt'>
+<p class=AmmCorpsTexte><span class='italique'>Anémie aplasique<sup>1</sup></span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" rowspan=2 valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections du système immunitaire </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Peu fréquent</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'><span lang=EN-GB>Hypersensibilité<sup>2</sup></span></span></p>
+</td>
+</tr>
+<tr>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'><span lang=EN-GB>Lymphadénopathie angio-immunoblastique</span></span><span class='italique'><sup>3</sup></span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Troubles du métabolisme et de la nutrition </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Diabète sucré </span></p>
+<p class=AmmCorpsTexte><span class='italique'>Hyperlipidémie</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections psychiatriques </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Dépression</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections du système nerveux </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Coma</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Paralysie</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Ataxie</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Neuropathie périphérique</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Paresthésie</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Somnolence</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Céphalée</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Dysgeusie</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections oculaires </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Cataracte </span></p>
+<p class=AmmCorpsTexte><span class='italique'>Troubles visuels</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Maculopathie</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections de l'oreille et du labyrinthe </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Vertiges</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections cardiaques </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Angor</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Bradycardie</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections vasculaires </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Hypertension</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" rowspan=2 valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections gastro-intestinales </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Peu fréquent</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Douleur épigastrique<sup>4</sup></span></p>
+<p class=AmmCorpsTexte><span class='italique'>Nausées<sup>4</sup></span></p>
+<p class=AmmCorpsTexte><span class='italique'>Diarrhée<sup>4</sup></span></p>
+<p class=AmmCorpsTexte><span class='italique'>Vomissements<sup>4</sup></span></p>
+</td>
+</tr>
+<tr>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Hématémèse</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Stéatorrhée</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Stomatite</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Modification du comportement intestinal</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections hépatobiliaires </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Peu fréquent</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Tests anormaux de la fonction hépatique<sup>5</sup></span></p>
+<p class=AmmCorpsTexte><span class='italique'>Hépatite (y compris nécrose hépatique et hépatite granulomateuse)<sup>5.</sup></span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" rowspan=3 valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections de la peau et du tissu sous-cutané </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Fréquent</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Éruption cutanée</span></p>
+</td>
+</tr>
+<tr>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Syndrome de Stevens-Johnson/nécrolyse épidermique toxique et </span></p>
+<p class=AmmCorpsTexte><span class='italique'>DRESS </span><span class='italique'><span lang=EN-US>(syndrome d’hypersensibilité)</span></span><span class='italique'><sup>6</sup></span></p>
+</td>
+</tr>
+<tr>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Angio-œdème<sup>7</sup> </span></p>
+<p class=AmmCorpsTexte><span class='italique'>Toxidermie</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Alopécie</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Modification de la couleur des cheveux</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections du rein et des voies urinaires </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Hématurie </span></p>
+<p class=AmmCorpsTexte><span class='italique'>Urémie</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Affections des organes de reproduction et du sein </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Stérilité masculine</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Troubles de l’érection</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Gynécomastie</span></p>
+</td>
+</tr>
+<tr>
+<td width="40%" valign=top style='width:40.24%;border:solid windowtext 1.0pt;
+border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Troubles généraux et anomalies au site d'administration </span></p>
+</td>
+<td width="17%" valign=top style='width:17.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Très rare</span></p>
+</td>
+<td width="41%" valign=top style='width:41.88%;border-top:none;border-left:
+none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+padding:0cm 5.4pt 0cm 5.4pt'>
+<p class=AmmCorpsTexte><span class='italique'>Œdème</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Malaise</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Asthénie</span></p>
+<p class=AmmCorpsTexte><span class='italique'>Fièvre<sup>8</sup></span></p>
+</td>
+</tr>
+</table>
+<p class=AmmCorpsTexteGras style='margin-bottom:0cm;margin-bottom:.0001pt'> </p>
+<p class=AmmCorpsTexte>1. Ces manifestations ont été signalées en particulier chez des patients insuffisants rénaux ou hépatiques.</p>
+<p class=AmmCorpsTexte>2. Trouble d’hypersensibilité multi-organique retardé (connu sous le nom de syndrome d’hypersensibilité ou DRESS) avec fièvre, éruptions cutanées, vascularite, lymphadénopathie, pseudo-lymphome, arthralgie, leucopénie, éosinophilie, hépatosplénomégalie, résultats anormaux aux tests de la fonction hépatique, syndrome de disparition des voies biliaires (destruction et disparition des canaux biliaires intra-hépatiques) survenant dans diverses combinaisons. D’autres organes peuvent également être touchés (par exemple foie, poumons, reins, pancréas, myocarde et côlon). De telles réactions peuvent apparaître à tout moment au cours du traitement. L’allopurinol doit être IMMÉDIATEMENT et DÉFINITIVEMENT arrêté. </p>
+<p class=AmmCorpsTexte>Une réintroduction du médicament ne doit pas être entreprise chez des patients atteints d’un syndrome d’hypersensibilité et d’un SSJ/NET. Les corticostéroïdes peuvent se révéler utiles pour prendre en charge les réactions cutanées d’hypersensibilité. Lorsque des réactions généralisées d’hypersensibilité ont été observées, des troubles de la fonction rénale et/ou hépatique étaient généralement présents, en particulier dans les cas d’issue fatale. </p>
+<p class=AmmCorpsTexte>3. Les lymphadénopathies angio-immunoblastiques semblent être réversibles à l'arrêt du traitement.</p>
+<p class=AmmCorpsTexte>4. Ces troubles sont très rarement assez importants pour obliger à interrompre le traitement. Ils peuvent être évités en absorbant le médicament après le repas.</p>
+<p class=AmmCorpsTexte>5. Un dysfonctionnement hépatique a été signalé en dehors de tout contexte d'hypersensibilité généralisée.</p>
+<p class=AmmCorpsTexte>6. Les réactions cutanées sont les réactions les plus fréquentes et peuvent apparaître à tout moment au cours du traitement. Elles peuvent se manifester sous forme de prurit, d’exanthème maculopapuleux, parfois avec desquamation ou purpura, rarement avec exfoliation, comme dans le cas du syndrome de Stevens-Johnson ou de la nécrolyse épidermique toxique (SSJ/NET) et du DRESS. L’allopurinol doit être arrêté IMMÉDIATEMENT chez tout patient en cas de survenue de signes ou de symptômes de SSJ/NET, ou d’autres réactions graves d’hypersensibilité. Le risque de survenue de SSJ et de NET, ou d’autres réactions graves d’hypersensibilité, est le plus élevé au cours des premières semaines de traitement. Un diagnostic précoce et l’arrêt immédiat du médicament suspect, sont les outils qui offrent les meilleurs résultats dans la prise en charge de telles réactions. </p>
+<p class=AmmCorpsTexte>Si le traitement par l’allopurinol a été interrompu suite à de légères réactions cutanées (c’est-à-dire sans signes ou symptômes de SSJ/NET, ou sans autre réaction sévère d’hypersensibilité), l’allopurinol peut être réinstauré à une faible posologie (par ex. 50 mg/jour), laquelle sera augmentée progressivement. L’allèle HLA-B*5801 s’est avéré associé au risque de présenter un syndrome d’hypersensibilité et un SSJ/NET lié à l’allopurinol. L’utilisation du génotypage en tant qu’outil diagnostique permettant de prendre les décisions de traitement par allopurinol n’a pas été établie. En cas de réapparition des troubles cutanés, le traitement par allopurinol doit être arrêté DÉFINITIVEMENT, car il existe un risque d’apparition de réactions d’hypersensibilité plus sévères (voir rubrique 4.8 Affections du système immunitaire). Si un SSJ/une NET, ou d’autres réactions graves d’hypersensibilité, ne peuvent être écartés, NE PAS réintroduire l’allopurinol à cause du risque de survenue de réaction sévère ou même fatale. Le diagnostic clinique d’un SSJ/une NET reste la base de la prise de décision. </p>
+<p class=AmmCorpsTexte>7. La survenue d’un angio-œdème a été signalée avec ou non des signes et des symptômes de réaction d’hypersensibilité plus généralisée.</p>
+<p class=AmmCorpsTexte>8. La fièvre a été rapportée en dehors de tout contexte d'hypersensibilité généralisée.</p>
+<p class=AmmCorpsTexteGras>Déclaration des effets indésirables suspectés </p>
+<p class=AmmCorpsTexte>La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : <span class='souligne'>www.ansm.sante.fr</span>.</p>
+<p class="AmmAnnexeTitre2"><a name="RcpSurdosage">4.9. Surdosage</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmAnnexeTitre3><span class=AmmCorpsTexteGrasCar>Signes et symptômes</span></p>
+<p class=AmmCorpsTexte>Aucun effet indésirable n’a été signalé suite à une ingestion allant jusqu’à 22,5 g d’allopurinol. Pour des doses allant jusqu'à 20 g, les symptômes suivants, évoluant favorablement après traitement, ont été notés: nausées, vomissements, diarrhées, vertiges et dans un cas, lombalgies avec oligurie.</p>
+<p class=AmmAnnexeTitre3><span class=AmmCorpsTexteGrasCar>Traitement </span></p>
+<p class=AmmCorpsTexte><a name="_Toc142278931">Une absorption massive d’allopurinol peut inhiber de façon considérable l’activité de la xanthine oxydase, ce qui ne provoquerait pas en soi d’effet indésirable à moins d’un effet sur des médicaments administrés simultanément, en particulier la 6-mercaptopurine et/ou l’azathioprine.</a></p>
+<p class=AmmCorpsTexte><span style='color:black'>Traitement hospitalier en milieu spécialisé.</span></p>
+<p class=AmmCorpsTexte><span style='color:black'>Assurer une diurèse abondante pour augmenter l'élimination de l'allopurinol et de son métabolite. L'allopurinol et l'oxypurinol sont dialysables.</span></p>
+<p class="AmmAnnexeTitre1"><a name="RcpPropPharmacologiques">5. PROPRIETES PHARMACOLOGIQUES</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class="AmmAnnexeTitre2"><a name="RcpPropPharmacodynamiques">5.1. Propriétés pharmacodynamiques</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexteGras><a name="_Toc142278933">Classe pharmacothérapeutique : inhibiteur de la synthèse d’acide urique, code ATC : M04AA01 </a></p>
+<p class=AmmCorpsTexte><span class='gras'>(M : Muscle et Squelette)</span></p>
+<p class=AmmAnnexeTitre3>Mécanisme d’action</p>
+<p class=AmmCorpsTexte>L'allopurinol est un uricofreinateur : il empêche la formation d'acide urique.</p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>Il inhibe la xanthine oxydase qui est une enzyme catalysant la biosynthèse de l'acide urique. Il diminue l'uricémie et l'uraturie.</p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>L'allopurinol est également un substrat pour la xanthine oxydase qui le métabolise en oxypurinol, lui-même inhibiteur de cette enzyme. Il est responsable, en grande partie, de l'effet thérapeutique de l'allopurinol.</p>
+<p class=AmmAnnexeTitre3>Effets pharmacodynamiques</p>
+<p class=AmmCorpsTexte>L'allopurinol est un puissant hypo-uricémiant. Après administration, l'uricémie s'abaisse en 24 à 48 heures. La prise quotidienne d'allopurinol entraîne une chute maximale de l'uricémie au bout de deux semaines environ. En cas d'arrêt du traitement, l'uricémie remonte à sa valeur antérieure au bout de 7 à 10 jours, d'où la nécessité de poursuivre le traitement sans interruption.</p>
+<p class=AmmCorpsTexte>En plus de l’inhibition du métabolisme de la purine, chez certains patients présentant une hyperuricémie mais pas chez tous, la biosynthèse de novo de la purine est inhibée via l’inhibition de l’hypoxanthine guanine phosphoribosyltransférase.</p>
+<p class="AmmAnnexeTitre2"><a name="RcpPropPharmacocinetiques">5.2. Propriétés pharmacocinétiques</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmAnnexeTitre3><a name="_Toc142278934">Absorption</a></p>
+<p class=AmmCorpsTexte>L’allopurinol est actif lorsqu’il est administré par voie orale et il est rapidement absorbé au niveau de la partie supérieure du tube digestif. Des études ont détecté la présence d’allopurinol dans le sang 30 à 60 minutes après la prise. Les estimations de sa biodisponibilité varient de 67 à 90 %.</p>
+<p class=AmmCorpsTexte>Les concentrations plasmatiques maximales d’allopurinol sont habituellement atteintes 1,5 heure après l’administration orale d’allopurinol, mais elles chutent rapidement et sont à peine détectables après 6 heures. Les concentrations maximales d’oxypurinol sont habituellement atteintes 3 à 5 heures après l’administration orale d’allopurinol et sont beaucoup plus durables.</p>
+<p class=AmmAnnexeTitre3>Distribution</p>
+<p class=AmmCorpsTexte>La liaison de l’allopurinol aux protéines plasmatiques étant négligeable il semblerait donc que les variations de liaison aux protéines n’affectent pas la clairance de manière significative. Le volume de distribution apparent de l’allopurinol est d’environ 1,6 litre/kg, ce qui suggère une diffusion relativement importante au niveau des tissus. On ne dispose pas de données sur les concentrations tissulaires de l’allopurinol chez l’homme, mais il est probable que l’allopurinol et l’oxypurinol atteignent leurs concentrations maximales dans le foie et dans la muqueuse intestinale, où l’activité de la xanthine-oxydase est importante. </p>
+<p class=AmmAnnexeTitre3>Biotransformation</p>
+<p class=AmmCorpsTexte>Le principal métabolite de l’allopurinol est l’oxypurinol. Parmi les autres métabolites de l’allopurinol, il y a l’allopurinol-riboside et l’oxypurinol&#8209;7&#8209;riboside.</p>
+<p class=AmmAnnexeTitre3>Élimination</p>
+<p class=AmmCorpsTexte>Environ 20 % de l’allopurinol ingéré sont éliminés dans les selles. L’allopurinol est principalement éliminé par conversion métabolique de l’oxypurinol par la xanthine oxydase et l’aldéhyde oxydase, avec moins de 10 % de la molécule excrétée sous forme inchangée dans les urines. </p>
+<p class=AmmCorpsTexte>L’allopurinol a une demi-vie plasmatique d’environ 0,5 à 1,5 heure.</p>
+<p class=AmmCorpsTexte>L’oxypurinol est un inhibiteur de la xanthine oxydase moins puissant que l’allopurinol mais la demi-vie de l’oxypurinol est bien plus longue. Les estimations varient de 13 à 30 heures chez l’homme. De ce fait, une prise journalière unique d’allopurinol permet d’assurer une inhibition efficace de la xanthine oxydase sur une période de 24 heures. Les patients dont la fonction rénale est normale, accumuleront progressivement de l’oxypurinol jusqu’à atteinte d’un état d’équilibre de la concentration plasmatique d’oxypurinol. Ces patients, traités par 300 mg d’allopurinol par jour, auront habituellement des concentrations plasmatiques d’oxypurinol de 5 à 10 mg/litre. </p>
+<p class=AmmCorpsTexte>L’oxypurinol est éliminé sous forme inchangée dans les urines mais sa demi-vie d’élimination est longue en raison d’une réabsorption tubulaire. Les valeurs rapportées de demi-vie d’élimination varient de 13,6 à 29 heures. Les divergences importantes dans ces valeurs peuvent s’expliquer par les variations des schémas des études cliniques et/ou de la clairance de la créatinine chez les patients étudiés. </p>
+<p class=AmmAnnexeTitre3>Populations particulières de patients</p>
+<p class=AmmAnnexeTitre4>Insuffisants rénaux</p>
+<p class=AmmCorpsTexte>La clairance de l’allopurinol et de l’oxypurinol est nettement réduite chez les patients dont la fonction rénale est mauvaise, ce qui se traduit par des concentrations plasmatiques plus élevées lors de traitements chroniques. Les patients atteints d’insuffisance rénale avec une clairance de la créatinine entre 10 et 20 ml/min, avaient des concentrations plasmatiques d’oxypurinol d’environ 30 mg/litre après un traitement prolongé par 300 mg d’allopurinol par jour. </p>
+<p class=AmmCorpsTexte>Cela correspond approximativement à la concentration qui serait atteinte avec des doses de 600 mg/jour chez des personnes dont la fonction rénale est normale. Une réduction de la dose d’ALLOPURINOL CRISTERS est donc nécessaire chez les patients insuffisants rénaux. </p>
+<p class=AmmAnnexeTitre4>Sujets âgés</p>
+<p class=AmmCorpsTexte>La cinétique du médicament n’est pas susceptible d’être altérée sauf en cas d’altération de la fonction rénale (voir rubrique 5.2 <span class='italique'>Insuffisants rénaux</span>). </p>
+<p class="AmmAnnexeTitre2"><a name="RcpSecuritePreclinique">5.3. Données de sécurité préclinique</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmAnnexeTitre3><a name="_Toc142278935">Cancérogénèse, mutagénèse </a></p>
+<p class=AmmCorpsTexte>Des études cytogénétiques ont montré que l’allopurinol n’induisait pas d’aberration chromosomique dans les cellules sanguines humaines <span class='italique'>in vitro</span> à des concentrations allant jusqu’à 100 microgrammes/ml, et <span class='italique'>in vivo</span> à des doses allant jusqu’à 600 mg/jour, sur une période moyenne de 40 mois. </p>
+<p class=AmmCorpsTexte>L’allopurinol ne produit pas de composés nitroso <span class='italique'>in vitro</span> ou n’influence pas la transformation des lymphocytes <span class='italique'>in vitro</span>.</p>
+<p class=AmmCorpsTexte>Les données issues d’études biochimiques, et d’autres études cytologiques, suggèrent fortement que l’allopurinol n’exerce aucun effet délétère sur l’ADN à quelque stade que ce soit du cycle cellulaire, et qu’il n’est pas mutagène. </p>
+<p class=AmmCorpsTexte>Aucun signe d’effets cancérigènes n’a été observé chez la souris et le rat traités par l’allopurinol pendant une période allant jusqu’à 2 ans. </p>
+<p class=AmmAnnexeTitre3>Tératogénicité</p>
+<p class=AmmCorpsTexte>Lors d’une étude réalisée chez la souris, l’administration par voie intrapéritonéale de doses de 50 ou de 100 mg/kg les jours 10 et 13 de la gestation, a provoqué des malformations fœtales ; cependant, dans une étude similaire réalisée chez la rate recevant une dose de 120 mg/kg le jour 12 de la gestation, aucune malformation n’a été observée. Des études de grande envergure, réalisées avec des doses orales élevées d’allopurinol allant jusqu’à 100 mg/kg/jour chez la souris, jusqu’à 200 mg/kg/jour chez la rate et jusqu’à 150 mg/kg/jour chez la lapine, administrées les jours 8 et 16 de la gestation, n’ont mis en évidence aucun effet tératogène. </p>
+<p class=AmmCorpsTexte>Une étude <span class='italique'>in vitro </span>réalisée<span class='italique'> </span>sur des cultures de glandes salivaires de fœtus de souris pour évaluer l’embryotoxicité, a indiqué que l’allopurinol ne devrait pas avoir d’effets embryotoxiques sans induire également une toxicité maternelle.</p>
+<p class="AmmAnnexeTitre1"><a name="RcpDonneesPharmaceutiques">6. DONNEES PHARMACEUTIQUES</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class="AmmAnnexeTitre2"><a name="RcpListeExcipients">6.1. Liste des excipients</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte><a name="_Toc142278937">Lactose, amidon de maïs, carboxyméthylamidon sodique (type A), cellulose en poudre, silice colloïdale anhydre, povidone K30, laurylsulfate de sodium, stéarate de magnésium.</a></p>
+<p class="AmmAnnexeTitre2"><a name="RcpIncompatibilites">6.2. Incompatibilités</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte><a name="_Toc142278938">Sans objet.</a></p>
+<p class="AmmAnnexeTitre2"><a name="RcpDureeConservation">6.3. Durée de conservation</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte>3 ans.</p>
+<p class="AmmAnnexeTitre2"><a name="RcpPrecConservation">6.4. Précautions particulières de conservation</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte><a name="_Toc142278940">Pas de précautions particulières de conservation.</a></p>
+<p class="AmmAnnexeTitre2"><a name="RcpEmballage">6.5. Nature et contenu de l'emballage extérieur </a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte>28, 30, 90 ou 100 comprimés sous plaquettes (PVC/PVdC/Aluminium).</p>
+<p class=AmmCorpsTexte>Toutes les présentations peuvent ne pas être commercialisées.</p>
+<p class="AmmAnnexeTitre2"><a name="RcpPrecEmpl">6.6. Précautions particulières d’élimination et de manipulation</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte>Tout produit non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.</p>
+<p class="AmmAnnexeTitre1"><a name="RcpTitulaireAmm">7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexteGras style='margin-bottom:0cm;margin-bottom:.0001pt'><a name="_Toc142278943">CRISTERS</a></p>
+<p class=AmmCorpsTexte style='margin-bottom:0cm;margin-bottom:.0001pt'>22 QUAI GALLIENI</p>
+<p class=AmmCorpsTexte style='margin-bottom:0cm;margin-bottom:.0001pt'>92150 SURESNES</p>
+<p class="AmmAnnexeTitre1"><a name="RcpNumAutor">8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>34009 216 774 4 7 : 28 comprimés sous plaquettes (PVC/PVdC/Aluminium). </p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>34009 216 820 6 9 : 30 comprimés sous plaquettes (PVC/PVdC/Aluminium). </p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>34009 216 821 2 0 : 90 comprimés sous plaquettes (PVC/PVdC/Aluminium).</p>
+<p class=AmmListePuces1><span style='font-family:Symbol'>·<span style='font:7.0pt "Times New Roman"'>         </span></span>34009 580 760 6 0 : 100 comprimés sous plaquettes (PVC/PVdC/Aluminium).</p>
+<p class="AmmAnnexeTitre1"><a name="RcpPremiereAutorisation">9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L’AUTORISATION</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte>21/10/2011</p>
+<p class="AmmAnnexeTitre1"><a name="RcpDateRevision">10. DATE DE MISE A JOUR DU TEXTE</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte><a name="_Toc142278946">[à compléter ultérieurement par le titulaire]</a></p>
+<p class="AmmAnnexeTitre1"><a name="RcpDosimetrie">11. DOSIMETRIE</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte>Sans objet.</p>
+<p class="AmmAnnexeTitre1"><a name="RcpInstPrepRadioph">12. INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES</a>&nbsp;&nbsp;<a href='#HautDePage'><img src='img/BackToTop.jpg' width='15px' height='15px' alt='Retour en haut de la page' title='Retour en haut de la page' /></a></p>
+<p class=AmmCorpsTexte><a name="_Toc142278948">Sans objet.</a></p>
+<div style='border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm'>
+<p class="AmmAnnexeTitre"><a name="RcpCondPrescription">CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE</a></p>
+</div>
+<p class=AmmCorpsTexte>Liste I.</p>
+<span class='gras'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;color:#0B3D92;
+text-transform:uppercase'><br clear=all>
+</span></span>					
+					<p class="alignright"><a href="#HautDePage">Retour en haut de la page <img src="img/BackToTop.jpg" width="20px" height="20px" alt="Retour en haut de la page" title="Retour en haut de la page" /></a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<table summary="" class="content" width="1000">
+	<tr>
+		<td height="100px">&nbsp;</td>
+	</tr>
+</table>
+<table summary="Pied de page" class="footer" width="1000">
+	<tr>
+		<td>
+			<table summary="" class="tablealigncenter" border="0">
+				<tr>
+					<td width="100px" class="aligncenter"><a id="lien_ansm" href="http://ansm.sante.fr/" target="_blank"><img src="img/Logo_ANSM.png" width="150" height="60" alt="ANSM - Agence nationale de sécurité du médicament et des produits de santé" title="L'ANSM met à disposition les principales informations issues de l'Autorisation de mise sur le marché, l'appartenance à un groupe générique, les liens vers les informations de sécurité qu'elle publie, l'identification des médicaments sous surveillance renforcée - nouvelle fenêtre" /></a></td>
+					          <td>&nbsp;</td>
+					<td width="100px" class="aligncenter"><img src="img/Logo_HAS.png" width="150" height="60" alt="HAS - Haute autorité de santé" title="La HAS met à disposition les informations relatives au service médical rendu, à l'amélioration du service médical rendu ainsi que les liens vers les avis de la Commission de la Transparence correspondants - nouvelle fenêtre" /></td>
+					<td>&nbsp;</td>
+					<td width="100px" class="aligncenter"><img src="img/Logo_CNAM.png" width="150" height="60" alt="UNCAM - Unin nationale des caisses d'assurance maladie" title="L'UNCAM met à disposition le taux de remboursement, le prix et les indications remboursables le cas échéant, ainsi que l'agrément aux collectivités - nouvelle fenêtre" /></td>
+          				</tr>
+			</table> 
+		</td>
+	</tr>
+</table>
+<table summary="" class="finpage" width="1000">
+	<tr>
+		<td height="100px" class="aligncenter">
+			<a class="navigation" href="plan.php">Plan du site</a>&nbsp;|&nbsp;
+			<a class="navigation" href="accessibilite.php">Accessibilité</a>&nbsp;|&nbsp;
+			<a class="navigation" href="contact.php">Contact</a>&nbsp;|&nbsp;
+			<a class="navigation" href="telechargement.php">Téléchargement</a>&nbsp;|&nbsp;
+			<a class="navigation" href="http://www.service-public.fr/" title="Service Public - Nouvelle fenêtre" target="_blank">Service-Public.fr</a>&nbsp;|&nbsp;
+			<a class="navigation" href="http://www.legifrance.gouv.fr/" title="Legifrance - Nouvelle fenêtre" target="_blank">Legifrance</a>&nbsp;|&nbsp;
+			<a class="navigation" href="http://www.gouvernement.fr/" title="Gouvernement - Nouvelle fenêtre" target="_blank" >Gouvernement.fr</a>
+		</td>
+	</tr>
+</table>
+
+<script type="text/javascript">
+
+//Customisation des fonctions xiti en fonction de la configuration
+function cs_xt_click(object, arg, level2_id, click_label, click_type, url, open_blank){
+	var label = "" + click_label;
+	xt_click(object, arg, level2_id, label, click_type, url, open_blank);
+}
+
+function cs_xt_med(arg, level2_id, click_label, click_type){
+	var label = "" + click_label;
+	xt_med(arg, level2_id, label, click_type);
+}
+
+function cs_xt_form(form, arg, level2_id, click_label, typeClick, submit){
+	var label = "" + click_label;
+	xt_form(form, arg, level2_id, label, typeClick, submit);
+}
+
+
+//Initialisation variables pour les marqueurs de type clic
+var liens = [];
+var liensSpecifiques = [];
+
+</script>
+	
+
+<script type="text/javascript">
+	
+////#1673: Marquage Xiti/Clic
+//Ajout des marqueurs sur au moins plus d'une page
+var liensCommun = [
+	{id: 'lien_ministere', libelle: 'icone_ministere', open_blank: true, typeClick: 'S'},
+	{id: 'lien_medicament_gouv', libelle: 'medicament_gouv', open_blank: true, typeClick: 'S'},
+	{id: 'lien_accueil', libelle: 'lien_accueil'},
+	{id: 'lien_glossaire', libelle: 'lien_glossaire'},
+	{id: 'lien_aide', libelle: 'lien_aide'},
+	{id: 'lien_ansm', libelle: 'lien_ansm', open_blank: true, typeClick: 'S'},
+	{id: 'lien_has', libelle: 'lien_has', open_blank: true, typeClick: 'S'},
+	{id: 'lien_assurance_maladie', libelle: 'lien_assu-maladie', open_blank: true, typeClick: 'S'},
+	{id: 'lien_fiche_info', libelle: 'onglet_fiche-info'},
+	{id: 'lien_rcp', libelle: 'onglet_rcp'},
+	{id: 'lien_notice', libelle: 'onglet_notice'}
+];
+
+
+//Fusionner les liens spécifiques avec les commons
+liens = liensSpecifiques.concat(liensCommun);
+
+//Enregistrer les éléments qui doivent être audités
+for (var index in liens){
+	 var lien = liens[index];
+	(function (objet_lien){
+		
+		var items = [];
+		
+		//Récupérer les items en fonction de la stratégie
+		if (objet_lien.id){
+			var item = document.getElementById(objet_lien.id);
+			if (item){
+				items.push(document.getElementById(objet_lien.id));
+			}
+		}else if(objet_lien.class){
+			items = document.getElementsByClassName(objet_lien.class);
+		}
+		
+		//Ajouter le marqueur sur l'evenement de l'item
+		for(var i=0; i < items.length; i++){
+			
+			var item = items[i];
+			
+			//Par défaut, on met le marqueur sur le click
+			objet_lien.click = objet_lien.click == undefined? true: objet_lien.click;
+			
+			//Par défaut, on attribue un type de clic de navigation
+			var typeClick = objet_lien.typeClick == undefined? 'N': objet_lien.typeClick;
+			
+			if (objet_lien.click){
+				
+				item.addEventListener('click', function(){
+										
+					//Utilisation de la fonction xt_med dans certains cas
+					if (objet_lien.use_partial_function){
+						cs_xt_med('C', '2', objet_lien.libelle, typeClick);		
+					}else{
+						var open_blank = objet_lien.open_blank ? 1: null;
+						return cs_xt_click(this, 'C', '2', objet_lien.libelle, typeClick, null, open_blank);
+					}
+					
+				});
+			}  
+			
+			//Gestion des marqueurs sur le mouseenter
+			if (objet_lien.mouseenter){
+				item.addEventListener('mouseenter', function(){
+					cs_xt_med('C', '2', objet_lien.libelle, typeClick);
+				});
+			}
+			
+		}
+		
+	})(lien);
+}
+
+////Fin #1673: Marquage Xiti/Clic
+
+
+////#1673: Marquage Xiti/Page
+xtnv = document;
+xtsd = "http://logc407";
+xtsite = "567041";
+xtn2 = "2";
+xtpage = "pg_AffichageDoc";
+xtdi = "";
+xt_multc = "";
+xt_an = "";
+xt_ac = "";
+//do not modify below
+if (window.xtparam!=null){window.xtparam+="&ac="+xt_ac+"&an="+xt_an+xt_multc;}
+else{window.xtparam="&ac="+xt_ac+"&an="+xt_an+xt_multc;};
+////Fin #1673: Marquage Xiti/Page
+
+</script>
+
+<script type="text/javascript" src="scripts/xtcore.js"></script>
+
+<noscript>
+<img width="1" height="1" alt="" src="http://logc407.xiti.com/hit.xiti?s=567041&s2=&p=&di=&an=&ac=" >
+</noscript></body>
+</html>
