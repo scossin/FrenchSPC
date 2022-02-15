@@ -1,0 +1,2159 @@
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ANNEXE I  
+ 
+
+RESUME DES CARACTERISTIQUES DU PRODUIT 
+ 
+
+
+
+2 
+
+1. DENOMINATION DU MEDICAMENT 
+ 
+Javlor 25 mg/mL, solution à diluer pour perfusion 
+ 
+ 
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE 
+ 
+Un mL de solution à diluer contient 25 mg de vinflunine (sous forme de ditartrate). 
+ 
+Un flacon de 2 mL contient 50 mg de vinflunine (sous forme de ditartrate). 
+Un flacon de 4 mL contient 100 mg de vinflunine (sous forme de ditartrate). 
+Un flacon de 10 mL contient 250 mg de vinflunine (sous forme de ditartrate). 
+ 
+Pour la liste complète des excipients, voir rubrique 6.1. 
+ 
+ 
+3. FORME PHARMACEUTIQUE 
+ 
+Solution à diluer pour perfusion (solution stérile à diluer). 
+Solution limpide, incolore à jaune pale. 
+ 
+ 
+4. DONNEES CLINIQUES 
+ 
+4.1 Indications thérapeutiques 
+ 
+Javlor est indiqué en monothérapie pour le traitement des patients adultes atteints de carcinome 
+urothélial à cellules transitionnelles avancé ou métastatique après échec d'un traitement préalable à 
+base de platine. 
+ 
+L'efficacité et la tolérance de vinflunine n'ont pas été étudiées chez les patients avec un performance 
+status (PS) ≥ 2. 
+ 
+4.2 Posologie et mode d’administration 
+ 
+Le traitement par vinflunine doit être instauré sous la responsabilité d'un médecin qualifié dans 
+l'utilisation de la chimiothérapie anticancéreuse et est réservé aux unités spécialisées dans 
+l'administration d'une chimiothérapie cytotoxique. 
+ 
+La neutropénie, la thrombocytopénie et l’anémie étant des effets indésirables fréquents de vinflunine, 
+il convient, avant chaque cycle, de surveiller de manière appropriée la numération formule sanguine 
+afin de vérifier le nombre absolu de polynucléaires neutrophiles (PNN), le nombre de plaquettes et le 
+taux d’hémoglobine. 
+ 
+Posologie 
+La dose recommandée est de 320 mg/m² de vinflunine administrée toutes les 3 semaines en perfusion 
+intraveineuse de 20 minutes. 
+ 
+En cas de PS 1 (OMS/ECOG), ou de PS 0 avec antécédent d’irradiation pelvienne, le traitement doit 
+être initié à la dose de 280 mg/m². Après le premier cycle, en l'absence de toute toxicité 
+hématologique ayant entraîné un report de traitement ou une réduction de dose, la posologie sera 
+augmentée à 320 mg/m² toutes les 3 semaines pour les cycles suivants. 
+ 
+
+
+
+3 
+
+Traitements concomitants recommandés 
+Afin de prévenir la constipation, la prise de laxatifs et la mise en place de mesures diététiques, dont 
+une hydratation orale, sont recommandées du jour 1 au jour 5 ou 7 de chaque cycle d’administration 
+de vinflunine (voir rubrique 4.4). 
+ 
+Report ou arrêt de traitement en cas de toxicité 
+
+Table 1: Report de traitement en cas de toxicité pour les cycles suivants 
+
+Toxicité 1er jour de l’administration 
+
+Neutropénie (PNN < 1000 /mm3 ) 
+ou 
+Thrombocytopénie (plaquettes < 
+100,000/mm3) 
+
+- Retarder l'administration jusqu'à récupération (PNN 
+≥ 1,000/mm3 et plaquettes ≥ 100,000/mm3), et adapter la dose 
+si nécessaire (voir tableau 2). 
+- Arrêt définitif du traitement en l'absence de récupération 
+dans un délai de 2 semaines. 
+
+Toxicité d’organe: modérée, sévère ou 
+menaçant le pronostic vital 
+
+- Retarder l'administration jusqu'à récupération (toxicité 
+légère, absence de toxicité ou retour à l’état initial), et 
+adapter la dose si nécessaire (voir tableau 2). 
+
+- Arrêt définitif du traitement en l'absence de récupération 
+dans un délai de 2 semaines. 
+
+Ischémie cardiaque chez les patients ayant 
+des antécédents d’infarctus du myocarde 
+ou d’angor 
+
+- Arrêt définitif du traitement. 
+
+ 
+Adaptations de doses en cas de toxicité  
+
+Tableau 2 : Adaptations de doses en cas de toxicité 
+
+*National Cancer Institute, critères communs de toxicité Version 2.0 (NCI-CTC v 2.0) 
+1 Selon le NCI CTC, la constipation de Grade 2 est définie comme nécessitant l’utilisation de laxatifs, la 
+constipation de Grade 3 est définie comme nécessitant une évacuation manuelle ou un lavement, la constipation 
+
+Toxicité Adaptation de doses 
+ Dose initiale de vinflunine : 320 mg/m² Dose initiale de vinflunine : 
+
+280 mg/m² 
+(NCI CTC v 2.0)* Premier 
+
+événement 
+ 
+
+2e événement 
+consécutif 
+
+3e événement 
+consécutif 
+
+Premier 
+événement 
+
+ 
+
+2e événement 
+consécutif 
+
+Neutropénie 
+Grade 4 (PNN 
+< 500/mm3) > 7 
+jours 
+Neutropénie fébrile 
+(PNN < 1 000/mm3 
+
+et fièvre ≥ 38,5 °C) 
+Mucite ou 
+constipation 
+Grade 2 ≥ 5 jours ou 
+Grade ≥ 3 quelle 
+que soit la durée1 
+Toute autre toxicité 
+Grade ≥ 3 (sévère 
+ou menaçant le 
+pronostic vital) 
+(sauf vomissements 
+ou nausées Grade 
+32) 
+
+ 
+280 mg/m² 
+
+ 
+250 mg/m² 
+
+Arrêt définitif 
+du traitement 
+
+ 
+250 mg/m² 
+
+ 
+
+Arrêt définitif du 
+traitement 
+
+
+
+4 
+
+de Grade 4 est caractérisée par une occlusion sévère ou un mégacôlon toxique. La mucite de Grade 2 est définie 
+comme “modérée”, la mucite de Grade 3 est définie comme “sévère”, la mucite de Grade 4 est définie comme 
+“menaçant le pronostic vital”. 
+2 Selon le NCI CTC, la nausée de Grade 3 est caractérisée par une alimentation insuffisante, nécessitant une 
+perfusion. Les vomissements de Grade 3 sont caractérisés par au moins 6 épisodes en 24 heures suite à la prise 
+du traitement; ou par la nécessité d’une perfusion. 
+ 
+Populations particulières 
+ 
+Patients ayant une insuffisance hépatique  
+Une étude de phase I évaluant la pharmacocinétique et la tolérance de vinflunine a été menée chez les 
+patients présentant une fonction hépatique altérée. La pharmacocinétique de vinflunine n’a pas été 
+modifiée chez ces patients (voir rubrique 5.2) ; toutefois, suite aux modifications des paramètres 
+biologiques hépatiques observées après administration de vinflunine (élévation de gamma glutamyl 
+transférases (GGT), transaminases, bilirubine), les recommandations posologiques sont les suivantes : 
+ 
+- Aucun ajustement de posologie n’est nécessaire chez les patients : 
+
+- ayant un temps de prothrombine > 70%VN (Valeur Normale) et présentant au moins un des 
+critères suivants : [LSN (Limite Supérieure à la Normale) < bilirubine ≤  1,5xLSN et/ou 
+1,5xLSN < transaminases ≤  2,5xLSN et/ou LSN < GGT ≤  5xLSN]. 
+
+- ayant des transaminases ≤ 2,5xLSN (<5xLSN seulement en cas de métastases hépatiques) 
+ 
+- La dose recommandée de vinflunine est de 250 mg/m² toutes les trois semaines chez les patients 
+avec une insuffisance hépatique légère (Child-Pugh grade A) ou chez les patients avec un temps de 
+prothrombine ≥  60%VN et 1,5xLSN < bilirubine ≤  3xLSN et présentant au moins un des critères 
+suivants : [transaminases > LSN et/ou GGT > 5xLSN]. 
+ 
+- La dose recommandée de vinflunine est de 200 mg/m² toutes les trois semaines chez les patients 
+avec une insuffisance hépatique modérée (Child-Pugh grade B) ou chez les patients avec un temps de 
+prothrombine ≥  50%VN et bilirubine > 3xLSN et transaminases > LSN et GGT > LSN. 
+ 
+Vinflunine n'a pas été évaluée chez les patients présentant une insuffisance hépatique sévère  (Child-
+Pugh grade C), ou chez les patients présentant un temps de prothrombine < 50 % VN ou un taux de 
+bilirubine > 5 x LSN ou présentant une augmentation isolée des transaminases > 2,5xLSN (≥5xLSN 
+seulement en cas de métastases hépatiques) ou un taux de GGT > 15 x LSN. 
+ 
+Patients ayant une insuffisance rénale 
+Dans les études cliniques, les patients dont la clairance de la créatinine (ClCr) était > 60 mL/min ont 
+été inclus et traités à la dose recommandée. 
+Chez les patients présentant une insuffisance rénale modérée (40 mL/min ≤ ClCr ≤ 60 mL/min), la 
+dose recommandée est de 280 mg/m² toutes les 3 semaines.  
+Chez les patients présentant une insuffisance rénale sévère (20 mL/min ≤ ClCr < 40 mL/min), la dose 
+recommandée est de 250 mg/m² toutes les 3 semaines (voir rubrique 5.2). 
+ 
+Pour les cycles suivants, en cas de toxicité, la dose doit être ajustée selon le tableau 3 ci-dessous. 
+ 
+Patients âgés (≥ 75 ans) 
+Aucune adaptation de dose reliée à l’âge n’est nécessaire chez les patients de moins de 75 ans (voir 
+rubrique 5.2). 
+Chez les patients âgés d’au moins 75 ans, les recommandations posologiques sont les suivantes: 
+
+- chez les patients d’au moins 75 ans et d’âge strictement inférieur à 80 ans, la dose 
+recommandée est de 280 mg/m² toutes les 3 semaines. 
+
+- chez les patients de 80 ans ou plus, la dose recommandée est de 250 mg/m² toutes les 3 
+semaines. 
+
+ 
+Pour les cycles suivants, en cas de toxicité, la dose doit être ajustée selon le tableau 3 ci-dessous : 
+
+
+
+5 
+
+ 
+Tableau 3 : Adaptations de dose en fonction de la toxicité chez les patients insuffisants rénaux 
+
+ou les patients âgés 
+ 
+
+Adaptation de doses Toxicité 
+(NCI CTC v 2.0)* Dose initiale de vinflunine 
+
+280 mg/m² 
+Dose initiale de vinflunine 
+
+250 mg/m² 
+ 
+
+Premier 
+événement 
+
+ 
+
+Deuxième 
+événement 
+consécutif 
+
+ 
+
+Premier 
+événement 
+
+ 
+
+Deuxième 
+événement 
+consécutif 
+
+ 
+Neutropénie Grade 4 (PNN 
+< 500/mm3) > 7 jours 
+Neutropénie fébrile (PNN 
+< 1 000/mm3 et fièvre ≥ 38,5 °C) 
+Mucite ou constipation Grade 2 ≥ 5 
+jours ou Grade ≥ 3 quelle que soit 
+la durée1 
+Toute autre toxicité Grade ≥ 3 
+(sévère ou menaçant le pronostic 
+vital) (sauf vomissements ou 
+nausées Grade 32) 
+
+250  mg/m² 
+ 
+
+Arrêt définitif 
+du traitement 
+
+225  mg/m² 
+ 
+
+Arrêt définitif 
+du traitement 
+
+*National Cancer Institute, critères communs de toxicité Version 2.0 (NCI-CTC v 2.0) 
+1 Selon le NCI CTC, la constipation de Grade 2 est définie comme nécessitant l’utilisation de laxatifs, la 
+constipation de Grade 3 est définie comme nécessitant une évacuation manuelle ou un lavement, la constipation 
+de Grade 4 est caractérisée par une occlusion sévère ou un mégacôlon toxique. La mucite de Grade 2 est définie 
+comme “modérée”, la mucite de Grade 3 est définie comme “sévère”, la mucite de Grade 4 est définie comme 
+“menaçant le pronostic vital”. 
+2 Selon le NCI CTC, la nausée de Grade 3 est caractérisée par une alimentation insuffisante, nécessitant une 
+perfusion. Les vomissements de Grade 3 sont caractérisés par au moins 6 épisodes en 24 heures suite à la prise 
+du traitement; ou par la nécessité d’une perfusion. 
+ 
+Population pédiatrique   
+Utilisation chez l’enfant - il n’y a pas d’indication spécifique pour l’utilisation de Javlor chez les 
+enfants. 
+ 
+Mode d’administration 
+ 
+Précaution à prendre avant la manipulation ou l’administration du médicament 
+Javlor doit être dilué avant administration. Javlor est à usage unique. 
+Pour les instructions concernant la dilution du médicament avant administration, voir la rubrique 6.6. 
+ 
+Javlor doit être administré UNIQUEMENT par voie intraveineuse.  
+Javlor doit être administré en perfusion intraveineuse de 20 minutes et NON en bolus intraveineux 
+rapide. 
+ 
+Des voies d’abord périphériques ou un cathéter central peuvent être utilisés pour l'administration de 
+vinflunine. Perfusée dans une veine périphérique, vinflunine peut induire une irritation veineuse (voir 
+rubrique 4.4). En cas de petites veines ou de veines sclérosées, de lymphœdème ou de ponction 
+veineuse récente dans la même veine, l'utilisation d'un cathéter central doit être privilégiée. Afin 
+d'éviter les extravasations, il est important de s’assurer que l'aiguille est correctement introduite avant 
+de commencer la perfusion. 
+ 
+Afin de rincer la veine, l'administration de Javlor solution diluée doit toujours être suivie de 
+l'administration d'un volume au moins égal de solution pour perfusion de chlorure de sodium à 
+9 mg/mL (0,9%) ou de glucose à 50 mg/mL (5%). 
+
+
+
+6 
+
+Pour les instructions détaillées concernant l’administration, voir la rubrique 6.6. 
+ 
+4.3 Contre-indications 
+ 
+Hypersensibilité connue à la substance active ou à d’autres vinca-alcaloïdes. 
+Infection sévère actuelle ou récente (dans les 2 semaines). 
+Nombre de polynucléaires neutrophiles initial < 1 500/mm3 avant la première administration, 
+< 1,000/mm3 pour les administrations suivantes (voir rubrique 4.4). 
+Nombre de plaquettes < 100 000/mm3 (voir rubrique 4.4). 
+Allaitement (voir rubrique 4.6). 
+ 
+4.4 Mises en garde spéciales et précautions d’emploi 
+ 
+Toxicité hématologique  
+La neutropénie, la leucopénie, l’anémie et la thrombocytopénie sont des effets indésirables fréquents 
+de vinflunine. La numération formule sanguine doit faire l’objet d’une surveillance appropriée afin de 
+vérifier le nombre de PNN, le nombre de plaquettes et le taux d’hémoglobine avant chaque 
+administration de vinflunine (voir rubrique 4.3). 
+L’initiation du traitement est contre-indiquée chez les patients présentant un nombre de PNN 
+< 1 500/mm3 ou de plaquettes < 100 000/mm3.  Pour les cycles suivants, vinflunine est contre-indiquée 
+chez les patients présentant un nombre de PNN < 1 000/mm3 ou de plaquettes < 100 000/mm3. 
+La dose recommandée doit être réduite chez les patients qui développent une toxicité hématologique 
+(voir rubrique 4.2). 
+ 
+Affections gastro-intestinales 
+Une constipation de Grade ≥ 3  a été observée chez 15,3% des patients traités. La constipation de 
+Grade 4 est caractérisée par une occlusion sévère ou un megacolon toxique, la constipation de Grade 
+3 est définie comme nécessitant une évacuation manuelle ou un lavement. La constipation est 
+réversible et peut être prévenue par la mise en place de mesures diététiques spécifiques telles que 
+l'hydratation orale et la prise de fibres alimentaires, et par l’administration de laxatifs stimulants ou 
+émollients du jour 1 au jour 5 ou 7 de chaque cycle. Les patients à haut risque de constipation 
+(traitement concomitant par opiacés, carcinome péritonéal, masse abdominale, antécédent de chirurgie 
+abdominale lourde) doivent recevoir un laxatif osmotique du jour 1 au jour 7 de chaque cycle, à raison 
+d'une prise par jour le matin avant le petit déjeuner. 
+En cas de constipation de grade 2, définie comme nécessitant la prise de laxatifs, pendant 5 jours ou 
+plus ou de grade ≥ 3 quelle que soit la durée, la dose de vinflunine doit être adaptée (voir rubrique 
+4.2). 
+ 
+En cas de toxicité gastro-intestinale de grade ≥ 3 (sauf vomissements ou nausées) ou de mucite (de 
+grade 2 pendant 5 jours ou plus ou de grade ≥ 3 quelle que soit la durée), une adaptation posologique 
+est requise (voir Tableau 2 en rubrique 4.2). La mucite et la toxicité gastro-intestinale de Grade 2 sont 
+définies comme "modérées", de Grade 3 comme "sévères" et de Grade 4 comme "menaçant le 
+pronostic vital". 
+ 
+Affections cardiaques  
+Quelques épisodes d'allongement de l'intervalle QT ont été observés après l'administration de 
+vinflunine. Cet effet pourrait conduire à un risque accru d'arythmies ventriculaires bien qu’aucune 
+arythmie ventriculaire n'ait été observée avec la vinflunine. Néanmoins la vinflunine doit être utilisée 
+avec prudence chez les patients présentant un risque élevé d’arythmie cardiaque (par exemple, 
+insuffisance cardiaque congestive, antécédent connu d'allongement de l'intervalle QT, hypokaliémie) 
+(voir rubrique 4.8). L'utilisation concomitante d'au moins deux médicaments allongeant l'intervalle 
+QT/QTc n'est pas recommandée (voir rubrique 4.5). 
+Une attention particulière est recommandée en cas d’administration de vinflunine chez des patients 
+ayant un antécédent connu d'infarctus du myocarde, d’ischémie myocardique ou d'angor (voir 
+rubrique 4.8). Des événements cardiaques ischémiques peuvent survenir, notamment chez les patients 
+
+
+
+7 
+
+souffrant d'une maladie cardiaque sous-jacente. Les patients traités par vinflunine doivent donc faire 
+l'objet d'une surveillance médicale attentive à la recherche de troubles cardiaques. Une prudence 
+accrue est requise chez les patients  présentant un antécédent cardiaque et le rapport bénéfice/risque 
+devra être régulièrement et rigoureusement évalué. L'arrêt de la vinflunine doit être envisagé chez les 
+patients développant une ischémie cardiaque. 
+ 
+Syndrome d’Encéphalopathie Postérieure Reversible (SEPR)  
+Des cas de SEPR ont été observés après l’administration de vinflunine.  
+Les symptômes cliniques caractéristiques sont, à degrés variables : neurologiques (maux de tête, 
+confusion, crise d’épilepsie, troubles visuels), systémiques (hypertension), et gastro-intestinaux 
+(nausées, vomissements).  
+Les signes radiologiques sont des anomalies de la substance blanche dans les régions postérieures du 
+cerveau. La pression artérielle doit être contrôlée chez les patients présentant des symptômes de 
+SEPR. Pour confirmer le diagnostic, une imagerie cérébrale est recommandée. 
+Les signes cliniques et radiologiques sont généralement rapidement reversibles et sans sequelle après 
+arrêt du traitement. 
+L’arrêt de vinflunine doit être envisagé chez les patients présentant des signes neurologiques de SEPR 
+(voir rubrique 4.8). 
+ 
+Hyponatrémie 
+Des cas d’hyponatrémie sévère, dont certains dus au Syndrome de Sécrétion Inappropriée d'Hormone 
+Antidiurétique (SIADH), ont été observés avec l’utilisation de vinflunine (voir rubrique 4.8). Par 
+conséquent, une surveillance régulière du taux de sodium sérique est recommandée pendant le 
+traitement par vinflunine.  
+ 
+Insuffisance hépatique  
+La dose recommandée doit être réduite chez les patients présentant une fonction hépatique altérée 
+(voir rubrique 4.2). 
+ 
+Insuffisance rénale 
+La dose recommandée doit être réduite chez les patients atteints d'insuffisance rénale modérée ou 
+sévère (voir rubrique 4.2). 
+ 
+Patients âgés (≥ 75 ans) 
+La dose recommandée doit être réduite chez les patients âgés de 75 ans ou plus (voir rubrique 4.2). 
+ 
+Interactions 
+L'utilisation concomitante de vinflunine avec des  inhibiteurs ou avec des inducteurs puissants du 
+CYP3A4 doit être évitée (voir rubrique 4.5). 
+ 
+Administration 
+L'administration intrathécale de Javlor pourrait être fatale. 
+Lorsqu'elle est perfusée dans une veine périphérique, la vinflunine peut induire une irritation veineuse 
+de grade 1 (22% des patients, 14,1% des cycles), de grade 2 (11,0% des patients, 6,8% des cycles) ou 
+de grade 3 (0,8% des patients, 0,2% des cycles). Tous les cas ont été résolus rapidement sans arrêt du 
+traitement. Il convient de se conformer aux instructions concernant l'administration décrites à la 
+rubrique 6.6. 
+ 
+Contraception 
+Les hommes et les femmes en âge de procréer doivent utiliser une contraception efficace au cours du 
+traitement et jusqu'à 3 mois après la dernière administration de vinflunine (voir rubrique 4.6). 
+ 
+
+
+
+8 
+
+4.5 Interactions avec d’autres médicaments et autres formes d’interactions 
+ 
+Les études in vitro ont montré que la vinflunine n'a pas d'effet inducteur sur l'activité des CYP1A2, 
+CYP2B6 et CYP3A4, ni d'effet inhibiteur sur l'activité des CYP1A2, CYP2B6, CYP2C8, CYP2C9, 
+CYP2C19, CYP2D6 et CYP3A4. 
+ 
+Les études in vitro ont montré que la vinflunine est un substrat de la Pgp comme les autres vinca-
+alcaloïdes, mais avec une plus faible affinité. Les risques d'interactions cliniquement significatives 
+sont donc peu probables. 
+Aucune interaction pharmacocinétique n'a été observée chez les patients traités simultanément par 
+vinflunine et par cisplatine, carboplatine, capécitabine ou gemcitabine. 
+Aucune interaction pharmacocinétique n’a été observée chez les patients traités simultanément par 
+vinflunine et doxorubicine. Néanmoins, cette combinaison est associée à un risque particulièrement 
+élevé de toxicité hématologique. 
+ 
+Au cours d’une étude de Phase I, la co-administration de kétoconazole (un puissant inhibiteur du 
+CYP3A4) administré à la dose de 400 mg par voie orale une fois par jour pendant 8 jours, a entraîné 
+une augmentation de 30% et de 50% de l'exposition sanguine à la vinflunine et à son métabolite 4-O-
+déacétyl-vinflunine (DVFL) respectivement. 
+ 
+L'utilisation concomitante de la vinflunine avec des inhibiteurs (tels que ritonavir, kétoconazole, 
+itraconazole ou le jus de pamplemousse) ou des inducteurs (tels que rifampicine ou l'Hypericum 
+perforatum (millepertuis)) puissants du CYP3A4 doit donc être évitée car ceux-ci pourraient 
+augmenter ou diminuer les concentrations de vinflunine et de DVFL (voir rubriques 4.4 et 5.2). 
+ 
+L'utilisation concomitante de la vinflunine et d'autres médicaments allongeant l'intervalle QT/QTc 
+doit être évitée (voir rubrique 4.4). 
+ 
+Une interaction pharmacocinétique entre la vinflunine et la doxorubicine pégylée/liposomale a été 
+observée, entraînant une augmentation apparente de 15% à 30% de l'exposition à la vinflunine et une 
+diminution apparente de 2 à 3 fois de l'aire sous la courbe (AUC) de la doxorubicine, tandis que les 
+concentrations du métabolite, le doxorubicinol, n'étaient pas affectées. Les résultats d’une étude in 
+vitro suggèrent que ces modifications pourraient être liées à une adsorption de la vinflunine sur les 
+liposomes et à une distribution sanguine modifiée des deux molécules. La prudence est par 
+conséquent requise en cas d'utilisation de ce type d'association. 
+ 
+Une étude in vitro a suggéré une possible interaction (légère inhibition du métabolisme de la 
+vinflunine) avec le paclitaxel et le docétaxel (substrats du CYP3). Aucune étude clinique spécifique 
+de l’association de la vinflunine avec ces molécules n'a été conduite. 
+ 
+L'utilisation concomitante d'opiacés pourrait augmenter le risque de constipation. 
+ 
+4.6 Fértilité, grossesse et allaitement 
+ 
+Contraception chez les hommes et les femmes 
+Les hommes et les femmes doivent prendre des mesures contraceptives appropriées jusqu'à 3 mois 
+après l'arrêt du traitement. 
+ 
+Grossesse 
+Aucune donnée sur l'utilisation de vinflunine chez la femme enceinte n’est disponible. Les études 
+chez l'animal ont montré une embryotoxicité et une tératogénicité (voir rubrique 5.3). Sur la base des 
+résultats des études animales et de l'action pharmacologique du médicament, il existe un risque 
+potentiel d'anomalies embryonnaires et fœtales. 
+Vinflunine ne doit pas être utilisée au cours de la grossesse, à moins d'une nécessité absolue. En cas 
+de survenue d'une grossesse pendant le traitement, la patiente doit être informée du risque pour le 
+fœtus et doit faire l'objet d'une surveillance attentive. Une consultation génétique doit être envisagée. 
+
+
+
+9 
+
+Une telle consultation est également recommandée pour les patientes qui souhaitent avoir des enfants 
+après le traitement. 
+ 
+Allaitement 
+On ne sait pas si la vinflunine ou ses métabolites sont excrétés dans le lait maternel. Compte tenu 
+d’éventuels effets délétères sur le nourrisson, l'allaitement est contre-indiqué au cours du traitement 
+par vinflunine (voir rubrique 4.3).  
+ 
+Fertilité 
+Avant le traitement, les patients doivent se renseigner sur les possibilités de conservation de sperme 
+car le traitement par vinflunine peut provoquer une stérilité irréversible. 
+ 
+4.7 Effets sur l’aptitude à conduire des véhicules et à utiliser des machines 
+ 
+Javor peut causer des effets indésirables tels que de la fatigue (très fréquent) et des étourdissements 
+(fréquent) pouvant avoir une influence mineure ou modérée sur l’aptitude à conduire des véhicules et 
+à utiliser des machines. Les patients doivent être informés qu'ils ne doivent pas conduire de véhicules 
+ou utiliser de machines s'ils présentent un effet indésirable ayant un impact potentiel sur la capacité à 
+réaliser ces activités (voir rubrique 4.8). 
+ 
+4.8 Effets indésirables 
+ 
+Résumé du profil de sécurité 
+Dans le cadre de deux études de phase II et une étude de phase III menées chez des patients atteints de 
+carcinome urothélial à cellules transitionnelles (450 patients traités par vinflunine), les effets 
+indésirables imputables au traitement les plus fréquemment rapportés consistaient en des affections 
+hématologiques, principalement à type de neutropénie et anémie ; des affections gastro-intestinales, 
+en particulier constipation, anorexie, nausées, stomatites/mucites, vomissements, douleurs 
+abdominales et diarrhées, et des troubles généraux tels que asthénie/fatigue. 
+ 
+Liste tabulée des effets indésirables 
+Les effets indésirables sont listés ci-après par système classe-organe, fréquence et grade de sévérité 
+(NCI CTC version 2.0). La fréquence des effets indésirables est définie selon la convention ci-après : 
+très fréquent (≥ 1/10) ; fréquent (≥ 1/100, < 1/10) ; peu fréquent (≥ 1/1 000, < 1/100) ; rare 
+(≥ 1/10 000, < 1/1000) ; très rare (<1/10 000) ; fréquence indéterminée (ne peut être estimée sur la 
+base des données disponibles). Au sein de chaque groupe de fréquence, les effets indésirables sont 
+présentés suivant un ordre décroissant de gravité. 
+ 
+
+Tableau 4 : Effets indésirables observés chez les patients atteints de carcinome urothélial à 
+cellules transitionnelles traités par vinflunine 
+
+ 
+système classe-organe Fréquence Effets 
+
+indésirables 
+Grade NCI le plus sévère par patient 
+
+(%) 
+   Tous grades Grade 3-4 
+
+Infection  
+neutropénique 
+
+2,4 2,4 Fréquent 
+
+Infection (virale, 
+bactérienne, 
+fongique) 
+
+7,6 3,6 
+
+Infections et 
+infestations  
+
+Peu fréquent Neutropénie 
+septique 
+
+0,2 0,2 
+
+Tumeurs bénignes, 
+malignes et non 
+précisées 
+
+Peu fréquent Douleur tumorale 
+0,2 0,2 
+
+Affections du système Très fréquent Neutropénie 79,6 54,6 
+
+
+
+10 
+
+Leucopénie 84,5 45,2 
+Anémie 92,8 17,3 
+Thrombocytopénie 53,5 4,9 
+
+hématologique et 
+lymphatique  
+
+Fréquent Neutropénie 
+fébrile 
+
+6,7 6,7 
+
+Affections du système 
+immunitaire  
+
+Fréquent Hypersensibilité 1,3 0,2 
+
+Affections 
+endocriniennes 
+
+Peu fréquent Syndrome de 
+Sécrétion 
+Inappropriée 
+d'Hormone 
+Antidiurétique 
+(SIADH)a 
+
+0.4 b 0.4 b 
+
+Hyponatrémie 39,8 11,7 Très fréquent 
+Diminution de 
+l’appétit 
+
+34,2 2,7 
+Troubles du 
+métabolisme et de la 
+nutrition  
+
+Fréquent Déshydratation 4,4 2,0 
+Affections 
+psychiatriques  
+
+Fréquent Insomnie 5,1 0,2 
+
+Neuropathie 
+périphérique 
+sensitive  
+
+11,3 0,9 
+
+Syncope  1,1 1,1 
+Céphalée 6,2 0,7 
+Etourdissement 5,3 0,4 
+Névralgie 4,4 0,4 
+Dysgeusie 3,3 0 
+
+Fréquent 
+
+Neuropathie 1,3 0 
+Peu fréquent Neuropathie 
+
+motrice 
+périphérique 
+
+0,4 0 
+
+Affections du système 
+nerveux  
+
+Rare Syndrome 
+d’Encéphalopathie 
+Postérieure 
+Réversiblea 
+
+0.03b 0.03b 
+
+Affections oculaires Peu fréquent Troubles visuels 0,4 0 
+Fréquent Douleur 
+
+auriculaire 
+1,1 0 
+
+Vertige  0,9 0,4 
+
+Affections de l'oreille 
+et du labyrinthe  
+
+Peu fréquent 
+Acouphène 0,9 0 
+
+Fréquent Tachycardie 1,8 0,2 
+Ischémie 
+myocardique  
+
+0,7 0,7 
+Affections cardiaques  
+
+Peu fréquent 
+
+Infarctus du 
+myocarde 
+
+0,2 0,2 
+
+Hypertension 3,1 1,6 
+Thrombose 
+veineuse 
+
+3,6 0,4 
+
+Phlébite 2,4 0 
+
+Affections vasculaires  Fréquent 
+
+Hypotension 1,1 0,2 
+Dyspnée 4,2 0,4 Affections 
+
+respiratoires, 
+Fréquent 
+
+Toux 2,2 0 
+
+
+
+11 
+
+Syndrome de 
+détresse 
+respiratoire aiguë  
+
+0,2 0,2 thoraciques et 
+médiastinales  
+
+Peu fréquent 
+
+Douleur pharyngo-
+laryngée 
+
+0,9 0 
+
+Constipation 54,9 15,1 
+Douleur 
+abdominale  
+
+21,6 4,7 
+
+Vomissement 27,3 2,9 
+Nausée 40,9 2,9 
+Stomatite 27,1 2,7 
+
+Très fréquent 
+
+Diarrhée 12,9 0,9 
+Iléus 2,7 2,2 
+Dysphagie 2,0 0,4 
+Affection buccale 4,0 0,2 
+
+Fréquent 
+
+Dyspepsie 5,1 0,2 
+Odynophagie 0,4 0,2 
+Affections 
+gastriques 
+
+0.8 0 
+
+Œsophagite 0,4 0,2 
+
+Affections gastro-
+intestinales  
+
+Peu fréquent 
+
+Affections 
+gingivales 
+
+0,7 0 
+
+Très fréquent Alopécie 28,9 NA 
+Rash 1,8 0 
+Urticaire 1,1 0 
+Prurit 1,1 0 
+
+Fréquent 
+
+Hyperhidrose 1,1 0 
+Sécheresse cutanée 0,9 0 
+
+Affections de la peau 
+et des tissus sous-
+cutanés  
+
+Peu fréquent 
+Erythème 0,4 0 
+
+Très fréquent Myalgie 16,7 3,1 
+Faiblesse 
+musculaire 
+
+1,8 0,7 
+
+Arthralgie 7,1 0,4 
+Douleur dorsale 4,9 0,4 
+Douleur au niveau 
+de la mâchoire 
+
+5,6 0,0 
+
+Douleur aux 
+extrémités 
+
+2,4 0 
+
+Douleur osseuse 2,9 0 
+
+Affections musculo-
+squelettiques et 
+systémiques  
+
+Fréquent 
+
+Douleur musculo-
+squelettique  
+
+2,7 0,2 
+
+Affections rénales et 
+des voies urinaires  
+
+Peu fréquent Insuffisance rénale 0,2 0,2 
+
+Asthénie/Fatigue 55.3 15,8 
+Réaction au site 
+d’injection 
+
+26,4 0,4 
+Très fréquent 
+
+Pyrexie 11,7 0,4 
+Douleur 
+thoracique 
+
+4,7 0,9 
+
+Frisson 2,2 0,2 
+Douleur 3,1 0,2 
+
+Fréquent 
+
+Œdème 1,1 0 
+
+Troubles généraux et 
+anomalies au site 
+d'administration  
+
+Peu fréquent Extravasation 0,7 0 
+Investigations Très fréquent Perte de poids 24,0 0,4 
+
+
+
+12 
+
+Elévation des 
+transaminases  
+
+0,4 0 Peu fréquent 
+
+Prise de poids 0,2 0 
+a effets indésirables issus de l’expérience post-commercialisation  
+b fréquence calculée sur la base d’essais cliniques hors carcinome urothélial à cellules transitionnelles 
+ 
+Effets indésirables dans toutes les indications 
+Les effets indésirables potentiellement sévères survenus chez des patients atteints de carcinome 
+urothélial à cellules transitionnelles et chez les patients atteints d'un cancer différent de celui de 
+l'indication, ainsi que les effets indésirables connus comme effets de classe des vinca-alcaloïdes sont 
+présentés ci-dessous : 
+ 
+Affections du système hématologique et lymphatique 
+Une neutropénie de grade 3/4 a été observée chez 43,8% des patients. Les anémies sévères et les 
+thrombocytopénies sévères ont été moins fréquentes (respectivement 8,8% et 3,1%). Une neutropénie 
+fébrile définie par un nombre de PNN < 1 000/mm3 et une fièvre ≥ 38,5°C d’origine inconnue sans 
+infection clinique documentée microbiologiquement (NCI CTC version 2.0) a été observée chez 5,2% 
+des patients. Une infection associée à une neutropénie de grade 3/4 a été observée chez 2,8% des 
+patients. 
+Au total, 8 patients (0,6% de la population traitée) présentant une neutropénie sont décédés suite à 
+une complication infectieuse. 
+ 
+Affections gastro-intestinales 
+La constipation est un effet de classe des vinca-alcaloïdes : 11,8% des patients ont présenté une 
+constipation sévère au cours du traitement par vinflunine. Un iléus de grade 3/4 a été observé chez 
+1,9% des patients et a été réversible sous traitement médical. La constipation nécessite une prise en 
+charge médicale (voir rubrique 4.4). 
+ 
+Affections du système nerveux 
+La neuropathie périphérique sensitive est un effet de classe des vinca-alcaloïdes. 0,6% des patients 
+ont présenté un événement de grade 3. Tous se sont résolus au cours de l'étude. 
+De rares cas de Syndrome d’Encéphalopathie Réversible Postérieure ont été rapportés (voir rubrique 
+4.4). 
+ 
+Affections cardiovasculaires 
+Les effets cardiaques font partie des effets de classe connus des vinca-alcaloïdes. Des ischémies 
+myocardiques ou des infarctus du myocarde sont survenus chez 0,5 % des patients dont la plupart 
+présentait une maladie cardiovasculaire préexistante ou des facteurs de risque. Un patient est décédé 
+dans les suites d’un infarctus du myocarde et un autre d'un arrêt cardiopulmonaire. 
+Peu d'épisodes d'allongement de l'intervalle QT ont été observés après l'administration de vinflunine. 
+ 
+Affections respiratoires, thoraciques et médiastinales 
+Des épisodes de dyspnée, rarement sévères (grade 3/4: 1,2%), ont été observés chez 3,2% des 
+patients. 
+Un bronchospasme a été rapporté chez un patient traité par vinflunine dans un contexte différent de 
+celui de l'indication. 
+ 
+Déclaration des effets indésirables suspectés 
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle 
+permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de 
+santé déclarent tout effet indésirable suspecté via le système national de déclaration – voir Annexe V. 
+ 
+
+
+
+
+13 
+
+4.9 Surdosage 
+ 
+Le principal effet toxique secondaire à un surdosage à la vinflunine est la myélosuppression, associée 
+à un risque d'infection sévère. 
+Il n'existe pas d'antidote connu en cas de surdosage à la vinflunine. En cas de surdosage, le patient 
+doit être maintenu dans une unité spécialisée et ses fonctions vitales doivent être étroitement 
+surveillées. D'autres mesures appropriées doivent être prises, telles que des transfusions sanguines, 
+l'administration d'antibiotiques et de facteurs de croissance. 
+ 
+ 
+5. PROPRIETES PHARMACOLOGIQUES 
+ 
+5.1 Propriétés pharmacodynamiques 
+ 
+Classe pharmacothérapeutique : agent antinéoplasique, vinca-alcaloïdes et analogues, code ATC : 
+L01CA05 
+ 
+Mécanisme d’action 
+Vinflunine se lie à la tubuline au niveau ou à proximité des sites de liaison des vinca-alcaloïdes en 
+inhibant sa polymérisation en microtubules, ce qui entraîne la suppression du processus de tapis 
+roulant, perturbe la dynamique des microtubules, arrête les cellules en mitose et induit la mort 
+cellulaire par apoptose. Vinflunine in vivo démontre une activité antitumorale significative, aussi bien 
+en termes de prolongation de la survie que d'inhibition de la croissance tumorale, sur un large spectre 
+de xénogreffes de tumeurs humaines implantées chez la souris.  
+ 
+Efficacité et sécurité clinique 
+Une étude de phase III et deux études de phase II étayent l'utilisation de Javlor pour le traitement de 
+deuxième ligne du carcinome urothélial à cellules transitionnelles avancé ou métastatique après échec 
+d'un traitement préalable à base de platine. 
+ 
+Dans les deux études cliniques de phase II, multicentriques, non randomisées, ouvertes, un total de 
+202 patients a été traité par vinflunine. 
+ 
+Dans l’étude clinique de phase III, multicentrique, ouverte, contrôlée, 253 patients ont été randomisés 
+dans le bras vinflunine + traitement symptomatique optimal (Best Supportive Care : BSC) et 177 dans 
+le bras BSC. La survie globale médiane a été de 6,9 mois dans le bras vinflunine + BSC versus 4,6 
+mois dans le bras BSC, sans atteindre de différence statistiquement significative ; avec un risque 
+relatif de 0.88 (95% IC 0,69-1,12). Toutefois, une différence statistiquement significative a été 
+observée sur la survie sans progression, dont la médiane a été de 3,0 mois dans le bras vinflunine + 
+BSC versus 1,5 mois dans le bras BSC (p=0,0012). 
+De plus, une analyse multivariée prévue au protocole réalisée sur la population ITT a démontré que 
+vinflunine a un effet thérapeutique statistiquement significatif (p=0,036) sur la survie globale quand 
+les facteurs pronostiques (PS, envahissement viscéral, phosphatases alcalines, hémoglobine, 
+irradiation pelvienne) sont pris en considération, avec un risque relatif de 0,77 (95% IC 0,61-0,98). 
+Une différence statistiquement significative sur la survie globale (p=0,040) a également été observée 
+dans la population éligible (correspondant à l’exclusion de 13 patients inclus malgré des violations 
+initiales majeures du protocole et cliniquement significatives et qui donc n’étaient pas éligibles au 
+traitement) ; avec un risque relatif de 0,78 (95% IC 0,61-0,99). Cette population éligible est la plus 
+pertinente pour l’analyse d’efficacité car elle reflète au mieux la population prévue pour ce traitement. 
+ 
+L’efficacité a été démontrée aussi bien chez les patients prétraités par cisplatine que chez les patients 
+n’ayant pas reçu de traitement antérieur par cisplatine. 
+Dans la population éligible, l’analyse en sous-groupe en fonction du traitement antérieur par 
+cisplatine sur la survie globale versus BSC a montré un risque relatif de 0,64 ((95% IC 0,40 – 1,03); 
+p=0,0821) chez les patients non prétraités par cisplatine et de 0,80 ((95% IC 0,60 – 1,06); p=0,1263) 
+chez les patients prétraités par cisplatine. Une fois ajustée sur les facteurs pronostiques, l’analyse de 
+
+
+
+14 
+
+la survie globale sur ces mêmes populations a montré un risque relatif de 0,53 ((95% IC 0,32 – 0,88); 
+p=0,0143) et de 0,70 ((95% IC 0,53 – 0,94); p=0,0174), respectivement. 
+Dans l’analyse en sous-groupe en fonction du traitement antérieur par cisplatine sur la survie sans 
+progression versus BSC, les résultats ont montré un risque relatif de 0,55 ((95% IC 0,34 – 0,89); 
+p=0,0129) chez les patients non prétraités par cisplatine et de 0,64 ((95% IC 0,48 – 0,85); p=0,0040) 
+chez les patients prétraités par cisplatine. Une fois ajustée sur les facteurs pronostiques, l’analyse de 
+la survie sans progression sur ces mêmes populations a montré un risque relatif de 0,51 ((95% IC 
+0,31 – 0,86); p=0,0111) et de 0,63 ((95% IC 0,48 – 0,84); p=0,0016), respectivement. 
+ 
+Population pédiatrique 
+L’Agence européenne des médicaments a accordé une dérogation à l’obligation de soumettre les 
+résultats d’études réalisées avec Javlor dans tous les sous-groupes de la population pédiatrique dans le 
+traitement du cancer de l’uretère et de la vessie et le traitement du cancer du sein (voir rubrique 4.2 
+pour les informations concernant l’usage pédiatrique). 
+ 
+5.2 Propriétés pharmacocinétiques 
+ 
+L'exposition sanguine (AUC) à vinflunine augmente proportionnellement à la dose administrée de 30 
+à 400 mg/m2 (gamme de doses explorées). L'AUC de vinflunine est significativement corrélée aux 
+sévérités de leucopénie, de neutropénie et de fatigue. 
+ 
+Distribution  
+Vinflunine présente une liaison aux protéines plasmatiques modérée (67,2 ± 1,1%) avec un ratio 
+plasma/sang de 0,80 ± 0,12%. La liaison aux protéines concerne essentiellement les lipoprotéines 
+(surtout les HDL) et l'albumine. La liaison n’est pas saturable aux concentrations de vinflunine 
+observées chez le patient. La liaison à l’alpha1-glycoprotéine acide et aux plaquettes est négligeable 
+(< 5%). Le volume de distribution  de la phase terminale est important 2422 ± 676 L (environ 
+35 L/kg) et suggère une importante distribution tissulaire. 
+ 
+Biotransformation 
+Tous les métabolites identifiés sont formés par l'isoforme CYP3A4 des cytochromes P450, exceptée 
+la 4-O-déacetyl-vinflunine (DVFL) qui est formée par de multiples estérases. Elle est le seul 
+métabolite actif et le métabolite principal circulant. 
+ 
+Élimination  
+L'élimination de vinflunine suit une décroissance multi-exponentielle avec une demi-vie terminale 
+(T1/2) proche de 40 h. La DVFL est formée lentement et éliminée plus lentement que vinflunine (T1/2 
+d'environ 120 h). 
+Vinflunine et ses métabolites sont éliminés principalement dans les selles (2/3) et les urines (1/3). 
+La clairance totale sanguine calculée par analyse de population (372 patients et 656 profils) est de 
+40 L/h avec une faible variabilité inter et intra-individuelle (Coefficient de variation CV = 25% et 8% 
+respectivement). 
+ 
+Pharmacocinétique des populations particulières 
+ 
+Insuffisance hépatique 
+Aucune modification de la pharmacocinétique de vinflunine ou de la DVFL n'a été observée chez 
+25 patients présentant divers degrés d'insuffisance hépatique comparativement aux patients ayant une 
+fonction hépatique normale. Ceci est confirmé par l'analyse pharmacocinétique de population 
+(absence de relation entre la clairance de vinflunine et les marqueurs biologiques de l'insuffisance 
+hépatique). Cependant des ajustements de dose sont recommandés chez les patients présentant une 
+altération de la fonction hépatique (voir rubrique 4.2).  
+ 
+Insuffisance rénale 
+Une étude pharmacocinétique de phase I a été conduite chez 2 groupes de patients présentant une 
+insuffisance rénale, définis selon les valeurs calculées de la clairance à la créatinine (ClCr):  groupe 1 
+
+
+
+15 
+
+(n=13 patients) ayant une insuffisance modérée (ClCr comprise entre  40 et 60 mL/min) et groupe 2 
+(n=20 patients) ayant une insuffisance sévère (ClCr comprise entre 20 et strictement inférieure à 
+40 mL/min). Les résultats pharmacocinétiques de cette étude ont montré une diminution de la 
+clairance de vinflunine quand la ClCr est diminuée. Ceci est confirmé par l'analyse de 
+pharmacocinétique de population (56 patients avec une ClCr comprise entre 20 mL/min et 
+60 mL/min) montrant que la clairance de la créatinine influe sur la clairance de vinflunine (formule de 
+Cockcroft et Gault). Les ajustements de dose sont recommandés chez les patients ayant une 
+insuffisance rénale modérée ou sévère (voir rubrique 4.2).  
+ 
+Patients âgés (≥ 75 ans) 
+Une étude de phase I évaluant la pharmacocinétique de vinflunine a été conduite chez des patients 
+âgés (n=46). Les doses de vinflunine ont été ajustées selon 3 groupes d’âge :  
+ 
+
+Age 
+(années) 
+
+Nombre de 
+patients 
+
+Vinflunine 
+(mg/m²) 
+
+[70 – 75 [   17 320 
+
+[75 – 80 [ 15 280 
+
+≥ 80 14 250 
+
+ 
+La clairance de vinflunine a été significativement diminuée chez les patients ≥  80 ans comparée à un 
+groupe contrôle de patients plus jeunes < 70 ans. La pharmacocinétique n’a pas été modifiée pour  les 
+patients suivants : 70 ≤  âge < 75 ans et 75 ≤  âge < 80 ans. 
+Sur la base des données de pharmacocinétiques et de tolérance, des réductions de dose sont 
+recommandées dans les deux groupes de patients plus âgés : 75 ≤  âge < 80 ans et âge ≥  80 ans (voir 
+rubrique 4.2). 
+ 
+Autres 
+Une analyse de pharmacocinétique de population a montré que ni le sexe ni l’indice de Performance 
+Status (score ECOG) n'a d'impact sur la clairance de vinflunine, cette dernière étant directement 
+proportionnelle à la surface corporelle. 
+ 
+5.3 Données de sécurité préclinique 
+ 
+Des études de distribution par imagerie réalisées après administration de vinflunine radioactive chez 
+le rat ont montré que les concentrations de vinflunine dans les poumons, les reins, le foie, les glandes 
+salivaires et endocrines et le tube digestif augmentent rapidement et sont plus élevées par rapport au 
+sang. 
+ 
+Les données précliniques montrent que vinflunine induit une neutropénie modérée à sévère ainsi 
+qu’une anémie légère dans toutes les espèces étudiées, et une toxicité hépatique chez le chien et chez 
+le rat (caractérisée par des élévations dose-dépendantes des transaminases hépatiques et des nécroses 
+hépatiques - altérations hépatocellulaires à fortes doses). Ces effets toxiques sont dose-dépendants et 
+complètement ou partiellement réversibles un mois après l’arrêt du traitement. Vinflunine n'a pas 
+induit de neuropathie périphérique chez l'animal. Vinflunine est clastogène (provoque des cassures 
+chromosomiques) dans le test du micronoyau in vivo chez le rat et mutagène et clastogène dans le test 
+du lymphome de souris (sans activation métabolique). 
+ 
+Le potentiel cancérogène de vinflunine n'a pas été étudié. 
+Dans les études de reproduction, vinflunine est embryolétale et tératogène chez le lapin et chez le rat. 
+Dans les études de développement pré- et postnatal chez le rat, vinflunine a provoqué des 
+malformations de l'utérus et du vagin chez 2 femelles. Vinflunine a montré des effets délétères sur 
+l'accouplement et/ou l'implantation ovulaire ainsi qu’une diminution importante du nombre 
+d’embryons. 
+ 
+
+
+
+16 
+
+ 
+6. DONNEES PHARMACEUTIQUES 
+ 
+6.1 Liste des excipients 
+ 
+Eau pour préparations injectables. 
+ 
+6.2 Incompatibilités 
+ 
+Ce médicament ne doit pas être mélangé avec d’autres médicaments à l’exception de ceux mentionnés 
+dans la rubrique 6.6. 
+ 
+6.3 Durée de conservation 
+ 
+Flacon non ouvert 
+3 ans. 
+ 
+Solution diluée  
+La stabilité physico-chimique a été démontrée pour le médicament dilué dans les conditions 
+suivantes : 
+
+- à l'abri de la lumière dans des poches de perfusion en polyéthylène ou chlorure de 
+polyvinyle : jusqu’à 6 jours au réfrigérateur (entre 2°C et 8°C) ou jusqu’à 24 heures à 25°C. 
+- en cas d'exposition à la lumière dans la tubulure de perfusion en polyéthylène ou chlorure de 
+polyvinyle : jusqu’à 1 heure à 25°C. 
+
+ 
+D’un point de vue microbiologique, le produit doit être utilisé immédiatement après dilution. Si 
+l’utilisation n’est pas immédiate, les conditions et la durée de conservation avant utilisation sont de la 
+responsabilité de l’utilisateur, et ne devraient normalement pas excéder 24 heures entre 2°C et 8°C, 
+sauf si la dilution a été réalisée dans des conditions aseptiques contrôlées et validées. 
+ 
+6.4 Précautions particulières de conservation 
+ 
+A conserver au réfrigérateur (entre 2°C et 8°C). 
+A conserver dans l’emballage extérieur d'origine à l’abri de la lumière. 
+ 
+Pour les conditions de conservation du médicament après dilution, voir la rubrique 6.3. 
+ 
+6.5 Nature et contenu de l’emballage extérieur 
+ 
+Flacon de verre incolore de type I muni d'un bouchon en butyle élastomère gris ou en chlorobutyle 
+élastomère noir scellé par un anneau en aluminium et un opercule. Chaque flacon contient soit 2 mL 
+(50 mg de vinflunine), soit 4 mL (100 mg de vinflunine), soit 10 mL (250 mg de vinflunine) de 
+solution à diluer pour perfusion. 
+ 
+Boites de 1 ou de 10 flacons. 
+ 
+Toutes les présentations peuvent ne pas être commercialisées. 
+ 
+6.6 Précautions particulières d’élimination et manipulation 
+ 
+Précautions générales pour la préparation et l'administration. 
+Vinflunine est un médicament anticancéreux cytotoxique et, comme avec d’autres molécules 
+potentiellement toxiques, la prudence est requise lors de la manipulation de Javlor. La procédure 
+concernant la manipulation et l’élimination correctes des médicaments anticancéreux doit être 
+appliquée. Toutes les procédures de transfert doivent respecter strictement des techniques aseptiques, 
+de préférence en utilisant une hotte à flux laminaire vertical. Javlor solution pour perfusion doit être 
+
+
+
+17 
+
+préparé et administré uniquement par un personnel formé de manière appropriée à la manipulation des 
+agents cytotoxiques. Les femmes enceintes ne doivent pas manipuler Javlor. L'utilisation de gants, de 
+lunettes de sécurité et de vêtements protecteurs est recommandée. 
+En cas de contact avec la peau, celle-ci devra être lavée immédiatement et abondamment avec de l'eau 
+et du savon. En cas de contact avec les muqueuses, celles-ci devront être abondamment rincées à 
+l'eau.  
+ 
+Reconstitution de la solution à diluer pour perfusion 
+Le volume de Javlor (solution à diluer pour perfusion) correspondant à la dose de vinflunine calculée 
+doit être mélangé dans une poche de 100 mL de solution pour perfusion de chlorure de sodium à 
+9 mg/mL (0,9%). Une solution pour perfusion de glucose à 50 mg/mL (5%) peut également être 
+utilisée. La solution diluée doit rester à l’abri de la lumière jusqu’à l’administration (voir rubrique 
+6.3). 
+ 
+Mode d’administration 
+Voie intraveineuse UNIQUEMENT. 
+Javlor est à usage unique. 
+Après reconstitution de Javlor, solution à diluer pour perfusion, la solution doit être administrée 
+comme suit : 
+
+• Un abord veineux doit être mis en place pour une poche de 500 mL de solution pour perfusion 
+de chlorure de sodium à 9 mg/mL (0,9%) ou de glucose à 50 mg/mL (5%) sur une large veine, 
+de préférence sur la partie supérieure de l'avant-bras ou en utilisant un cathéter veineux central. 
+Les veines du dos de la main et celles proches des articulations doivent être évitées. 
+
+• La perfusion intraveineuse doit être débutée avec la moitié de la poche de 500 mL de solution 
+pour perfusion de chlorure de sodium à 9 mg/mL (0,9%) ou de glucose à 50 mg/mL (5%), c'est-
+à-dire 250 mL, à un débit libre afin de rincer la veine. 
+
+• Javlor solution pour perfusion doit être placé en dérivation sur le port d'injection latéral le plus 
+proche de la poche de 500 mL afin de continuer à diluer Javlor pendant l'administration. 
+
+• Javlor solution pour perfusion doit être perfusé en 20 minutes. 
+• La perméabilité doit être évaluée fréquemment et les précautions pour éviter les extravasations 
+
+doivent être maintenues pendant toute la durée de la perfusion. 
+• Après la fin de la perfusion, les 250 mL restants de la poche de solution pour perfusion de 
+
+chlorure de sodium à 9 mg/mL (0,9%) ou de glucose à 50 mg/mL (5%) doivent être passés à un 
+débit de 300 mL/h. Afin de rincer la veine, l'administration de Javlor solution pour perfusion 
+doit toujours être suivie de l'administration d'un volume au moins égal de solution pour 
+perfusion de chlorure de sodium à 9 mg/mL (0,9%) ou de glucose à 50 mg/mL (5%). 
+
+ 
+Elimination 
+Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur 
+pour les médicaments cytotoxiques. 
+ 
+ 
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE 
+ 
+Pierre Fabre Médicament 
+45, place Abel Gance 
+F-92100 Boulogne 
+France 
+ 
+ 
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE 
+ 
+EU/1/09/550/001-012 
+ 
+ 
+
+
+
+18 
+
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE 
+L’AUTORISATION 
+
+ 
+Date de première autorisation : 21 Septembre 2009 
+Date du dernier renouvellement : JJ mois AAAA 
+ 
+ 
+10. DATE DE MISE A JOUR DU TEXTE 
+ 
+(MM/AAAA) 
+ 
+Des informations détaillées sur ce médicament sont disponibles sur le site internet de l’Agence 
+européenne des médicaments http://www.ema.europa.eu. 
+ 
+
+
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ANNEXE II 
+ 
+
+A. FARBIQUANT(S) RESPONSABLE(S) DE LA 
+LIBERATION  DES LOTS 
+
+ 
+B. CONDITIONS OU RESTRICTIONS DE DELIVRANCE ET 
+
+D’UTILISATION  
+ 
+C. AUTRES CONDITIONS ET OBLIGATIONS DE L’AUTORISATION 
+
+DE MISE SUR LE MARCHE 
+ 
+D. CONDITIONS OU RESTRICTIONS EN VUE D’UNE UTILISATION 
+
+SÛRE ET EFFICACE DU MÉDICAMENT 
+ 
+
+ 
+ 
+
+
+
+20 
+
+A. FABRIQUANT(S) RESPONSABLE(S) DE LA LIBERATION DES LOTS 
+ 
+ 
+Nom et adresse du (des) fabricant(s) responsable(s) de la libération des lots 
+ 
+Pierre Fabre Médicament Production 
+Etablissement Aquitaine Pharm International 
+Avenue du Béarn 
+F-64320 Idron 
+France 
+ 
+ 
+B. CONDITIONS OU RESTRICTIONS DE DELIVRANCE ET D’UTILISATION 
+ 
+Médicament soumis à prescription médicale restreinte (voir Annexe I : résumé des caractéristiques du 
+produit, rubrique 4.2). 
+ 
+ 
+C. AUTRES CONDITIONS ET OBLIGATIONS DE L’AUTORISATION DE MISE SUR 
+
+LE MARCHE 
+ 
+• Rapports périodiques actualisés de sécurité (PSUR) 
+ 
+Le titulaire de l’autorisation de mise sur le marché soumettra des rapports périodiques actualisés de 
+sécurité pour ce produit conformément aux exigences définies dans la liste des dates de référence pour 
+l’Union (liste EURD) prévue à l’article 107 quater, paragraphe 7, de la directive 2001/83/CE et 
+publiée sur le portail web européen des médicaments. 
+ 
+ 
+D. CONDITIONS OU RESTRICTIONS EN VUE D’UNE UTILISATION SÛRE ET 
+
+EFFICACE DU MÉDICAMENT 
+ 
+• Plan de gestion des risques (PGR) 
+ 
+Le titulaire de l’autorisation de mise sur le marché réalisera les activités et interventions requises 
+décrites dans le PGR adopté et présenté dans le Module 1.8.2 de l’autorisation de mise sur le marché, 
+ainsi que toutes actualisations ultérieures du PGR. 
+ 
+Lorsque les dates de soumission d’un PSUR coïncident avec l’actualisation d’un PGR, les deux 
+documents doivent être soumis en même temps. 
+ 
+De plus, un PGR actualisé doit être soumis : 
+• à la demande de l’Agence européenne des médicaments ; 
+• dès lors que le système de gestion des risques est modifié, notamment en cas de réception de 
+
+nouvelles informations pouvant entraîner un changement significatif du profil bénéfice/risque, 
+ou lorsqu’une étape importante (pharmacovigilance ou minimisation du risque) est franchie. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ANNEXE III 
+ 
+
+ÉTIQUETAGE ET NOTICE 
+ 
+
+
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A. ÉTIQUETAGE
+
+
+
+23 
+
+ 
+MENTIONS DEVANT FIGURER SUR L’EMBALLAGE EXTERIEUR 
+ 
+CARTON 
+ 
+ 
+1. DENOMINATION DU MEDICAMENT 
+ 
+Javlor 25 mg/mL solution à diluer pour perfusion 
+Vinflunine 
+ 
+ 
+2. COMPOSITION EN SUBSTANCE(S) ACTIVE(S) 
+ 
+Un mL de solution à diluer contient 25 mg de vinflunine (sous forme de ditartrate). 
+ 
+Un flacon de 2 mL contient 50 mg de vinflunine (sous forme de ditartrate). 
+Un flacon de 4 mL contient 100 mg de vinflunine (sous forme de ditartrate). 
+Un flacon de 10 mL contient 250 mg de vinflunine (sous forme de ditartrate). 
+ 
+ 
+3. LISTE DES EXCIPIENTS 
+ 
+Eau pour préparations injectables  
+ 
+ 
+4. FORME PHARMACEUTIQUE ET CONTENU 
+ 
+Solution à diluer pour perfusion 
+ 
+1 flacon de 2 mL 
+10 flacons de 2 mL 
+1 flacon de 4 mL 
+10 flacons de 4 mL 
+1 flacon de 10 mL 
+10 flacons de 10 mL 
+ 
+50 mg/2 mL 
+100 mg/4 mL 
+250 mg/10 mL 
+ 
+ 
+5. MODE ET VOIE(S) D’ADMINISTRATION 
+ 
+Voie intraveineuse UNIQUEMENT, après dilution 
+Fatal si administré par d’autres voies.  
+Lire la notice avant utilisation. 
+ 
+ 
+6. MISE EN GARDE SPECIALE INDIQUANT QUE LE MEDICAMENT DOIT ETRE 
+
+CONSERVE HORS DE PORTEE ET DE VUE DES ENFANTS 
+ 
+Tenir hors de la vue et de la portée des enfants. 
+ 
+
+
+
+24 
+
+ 
+7. AUTRE(S) MISE(S) EN GARDE SPECIALE(S), SI NECESSAIRE 
+ 
+Cytotoxique : Manipuler avec précautions 
+ 
+ 
+8. DATE DE PEREMPTION 
+ 
+EXP :  
+Lire la notice pour la péremption du produit dilué 
+ 
+ 
+9. PRECAUTIONS PARTICULIERES DE CONSERVATION 
+ 
+Conserver au réfrigérateur 
+  
+ 
+ 
+Conserver dans son conditionnement d’origine afin de le protéger de la lumière 
+ 
+ 
+10. PRECAUTIONS PARTICULIERES D’ELIMINATION DES MEDICAMENTS NON 
+
+UTILISES OU DES DECHETS PROVENANT DE CES MEDICAMENTS S’IL Y A 
+LIEU 
+
+ 
+Tout produit non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur. 
+ 
+ 
+11. NOM ET ADRESSE DU TITULAIRE DE L’AUTORISATION DE MISE SUR LE 
+
+MARCHE 
+ 
+Pierre Fabre Médicament 
+45, place Abel Gance 
+F-92100 Boulogne 
+France 
+ 
+ 
+12. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE 
+ 
+EU/1/09/550/001 (boîte de 1 flacon de 2 mL avec un bouchon gris) 
+EU/1/09/550/002 (boîte de 10 flacons de 2 mL avec un bouchon gris) 
+EU/1/09/550/003 (boîte de 1 flacon de 4 mL avec un bouchon gris) 
+EU/1/09/550/004 (boîte de 10 flacons de 4 mL avec un bouchon gris) 
+EU/1/09/550/005 (boîte de 1 flacon de 10 mL avec un bouchon gris) 
+EU/1/09/550/006 (boîte de 10 flacons de 10 mL avec un bouchon gris) 
+EU/1/09/550/007 (boîte de 1 flacon de 2 mL avec un bouchon noir) 
+EU/1/09/550/008 (boîte de 10 flacons de 2 mL avec un bouchon noir) 
+EU/1/09/550/009 (boîte de 1 flacon de 4 mL avec un bouchon noir) 
+EU/1/09/550/010 (boîte de 10 flacons de 4 mL avec un bouchon noir) 
+EU/1/09/550/011 (boîte de 1 flacon de 10 mL avec un bouchon noir) 
+EU/1/09/550/012 (boîte de 10 flacons de 10 mL avec un bouchon noir) 
+ 
+ 
+
+
+
+25 
+
+13. NUMERO DU LOT  
+ 
+Lot 
+ 
+ 
+14. CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE 
+ 
+Médicament soumis à prescription médicale. 
+ 
+ 
+15. INDICATIONS D’UTILISATION 
+ 
+ 
+16. INFORMATIONS EN BRAILLE 
+ 
+Justification de ne pas inclure l’information en Braille acceptée 
+
+
+
+26 
+
+ 
+MENTIONS MINIMALES DEVANT FIGURER SUR LES PETITS CONDITIONNEMENTS 
+PRIMAIRES 
+ 
+ETIQUETTE FLACON 
+ 
+ 
+1. DENOMINATION DU MEDICAMENT ET VOIE(S) D’ADMINISTRATION 
+ 
+Javlor 25 mg/mL concentré stérile 
+vinflunine 
+Utilisation IV UNIQUEMENT, après dilution 
+ 
+ 
+2. MODE D’ADMINISTRATION 
+ 
+Voir notice 
+ 
+ 
+3. DATE DE PEREMPTION 
+ 
+EXP 
+ 
+ 
+4. NUMERO DU LOT 
+ 
+Lot : 
+ 
+ 
+5. CONTENU EN POIDS, VOLUME OU UNITE 
+ 
+50 mg/2 mL 
+100 mg/4 mL 
+250 mg/10 mL 
+ 
+ 
+6. AUTRES 
+ 
+
+
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+B. NOTICE 
+
+
+
+28 
+
+Notice : information de l’utilisateur 
+ 
+
+Javlor 25 mg/mL, solution à diluer pour perfusion 
+Vinflunine 
+
+ 
+ 
+
+Veuillez lire attentivement cette notice avant d’utiliser ce médicament car elle contient des 
+informations importantes pour vous. 
+- Gardez cette notice. Vous pourriez avoir besoin de la relire. 
+- Si vous avez d’autres questions, interrogez votre médecin. 
+- Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin. Ceci s’applique 
+
+aussi à tout effet indésirable qui ne serait pas mentionné dans cette notice. Voir rubrique 4. 
+ 
+ 
+Que contient cette notice ?  
+1. Qu’est-ce que Javlor et dans quel cas est-il utilisé 
+2. Quelles sont les informations à connaître avant d’utiliser Javlor  
+3. Comment utiliser Javlor  
+4. Quels sont les effets indésirables éventuels 
+5. Comment conserver Javlor  
+6. Contenu de l’emballage et autres informations 
+ 
+ 
+1.  Qu’est-ce que JAVLOR et dans quel cas est-il utilisé ? 
+ 
+La substance active contenue dans Javlor est vinflunine, appartenant à un groupe de médicaments 
+anticancéreux appelés vinca-alcaloïdes. Ces médicaments affectent la croissance des cellules 
+cancéreuses en arrêtant la division cellulaire, ce qui aboutit à la mort des cellules (cytotoxicité). 
+ 
+Javlor est utilisé pour traiter le cancer avancé ou métastatique de la vessie et des voies urinaires 
+lorsqu'un traitement préalable à base de platine a échoué. 
+ 
+ 
+2.  Quelles sont les informations à connaître avant d’utiliser Javlor ? 
+ 
+N’utilisez jamais Javlor :  
+- si vous êtes allergique à la substance active (vinflunine) ou à d’autres vinca-alcaloïdes 
+
+(vinblastine, vincristine, vindésine, vinorelbine), 
+- si vous avez eu (au cours des 2 dernières semaines) ou si vous avez actuellement une infection 
+
+sévère, 
+- si vous allaitez, 
+- si le nombre de vos globules blancs et/ou plaquettes est trop faible. 
+ 
+Avertissements et précautions 
+Prévenez votre médecin : 
+- si vous avez des problèmes hépatiques, rénaux ou cardiaques, 
+- si vous ressentez des symptômes neurologiques tels que des maux de tête, une modification de 
+
+l’état mental pouvant conduire à une confusion et coma, des convulsions, une vision trouble et 
+une pression artérielle élevée car vous pourriez être amené à interrompre le traitement,  
+
+- si vous prenez d'autres médicaments mentionnés ci-dessous dans “Utilisation d'autres 
+médicaments”, 
+
+- si vous souffrez de constipation ou si vous êtes traité par des médicaments contre la douleur 
+(opiacés) ou si vous avez un cancer de l'abdomen ou si vous avez eu une opération de chirurgie 
+abdominale, 
+
+- si vous êtes un homme et que vous souhaitez avoir un enfant (voir ci-dessous “Grossesse, 
+allaitement er fertilité”). 
+
+
+
+29 
+
+ 
+Le nombre de vos cellules sanguines sera contrôlé régulièrement avant et pendant le traitement car un 
+faible nombre de cellules sanguines est un effet indésirable très fréquent de Javlor. 
+La constipation est un effet indésirable très fréquent de Javlor. Des laxatifs pourront vous être 
+prescrits afin de prévenir la constipation. 
+ 
+Enfants et adolescents 
+Javlor ne doit pas être utilisé chez l'enfant et l’adolescent. 
+ 
+Autres médicaments et Javlor 
+Informez votre médecin si vous prenez ou avez récemment pris ou pourriez prendre tout autre 
+médicament. 
+ 
+En particulier, vous devez notamment prévenir votre médecin si vous prenez des médicaments 
+contenant l'une des substances actives ci-après : 
+- kétoconazole ou itraconazole, utilisés pour traiter les infections fongiques, 
+- opioïdes, utilisés pour traiter la douleur, 
+- ritonavir, utilisé pour traiter l'infection par le VIH, 
+- doxorubicine et doxorubicine liposomale pégylée, utilisée pour traiter certains types de cancer, 
+- rifampicine, utilisée pour traiter la tuberculose ou la méningite, 
+- préparations à base de plantes contenant de l'Hypericum perforatum (millepertuis), utilisées pour 
+
+traiter la dépression mineure à modérée. 
+ 
+Javlor avec des aliments et boissons 
+Vous devez prévenir votre médecin si vous buvez du jus de pamplemousse car cela peut entrainer une 
+augmentation de l’effet de Javlor. 
+Vous devez aussi boire de l'eau et avoir une alimentation riche en fibre. 
+ 
+Grossesse,  allaitement et fértilité 
+Si vous êtes enceinte ou que vous allaitez, si vous pensez être enceinte ou planifiez une grossesse, 
+prévenez votre médecin avant de prendre ce médiament. 
+ 
+Si vous êtes une femme ou un homme en âge de procréer, vous devez utiliser une méthode de 
+contraception appropriée au cours du traitement et pendant 3 mois après la dernière administration de 
+Javlor.  
+ 
+Javlor ne doit pas vous être administré si vous êtes enceinte, à moins d'une nécessité absolue. 
+ 
+Vous ne devez pas allaiter pendant le traitement par Javlor.  
+ 
+Si vous êtes un homme et que vous souhaitez avoir un enfant, demandez conseil à votre médecin. 
+Vous pouvez demander des conseils sur la conservation de sperme avant le début du traitement. 
+ 
+Conduite de véhicules et utilisation de machines 
+Javlor peut entrainer des effets indésirables comme de la fatigue ou des étourdissements. Vous ne 
+devez pas conduire de véhicules ni utiliser de machines si vous présentez des effets indésirables qui 
+affectent votre capacité de concentration et de réaction. 
+ 
+ 
+3. Comment utiliser Javlor  
+ 
+Dose 
+La dose recommandée chez l'adulte est de 320 mg/m² de surface corporelle (celle-ci sera calculée par 
+le médecin sur la base de votre poids et de votre taille). Le traitement sera répété toutes les 
+3 semaines. 
+ 
+
+
+
+30 
+
+Votre médecin adaptera la dose de départ de Javlor en fonction de votre âge et de votre condition 
+physique et dans les situations spécifiques suivantes : 
+- si vous avez eu une radiothérapie antérieure du bassin. 
+- si vous souffrez de problèmes rénaux modérés ou sévères, 
+- si vous souffrez de problèmes hépatiques. 
+ 
+Pendant le traitement, votre médecin peut diminuer la dose de Javlor, retarder ou interrompre le 
+traitement si vous présentez certains effets indésirables. 
+ 
+Mode d’administration 
+Javlor vous sera administré par un professionnel de santé qualifié sous forme d’une perfusion 
+intraveineuse (goutte-à-goutte dans une veine) pendant 20 minutes. Javlor ne doit pas être administré 
+par voie intrathécale (dans la colonne vertébrale).  
+Javlor est une solution à diluer pour perfusion qui doit être reconstituée avant administration. 
+ 
+ 
+4. Effets indésirables éventuels  
+ 
+Comme tous les médicaments, ce médicament peut provoquer des effets indésirables, mais ils ne 
+surviennent pas systématiquement chez tout le monde. 
+ 
+Prévenez immédiatement votre médecin si vous ressentez l’un des effets indésirables graves 
+suivants au cours de votre traitement par Javlor : 
+- fièvre et / ou frissons qui peuvent être signes d’infection 
+- douleur thoracique qui peut signifier une crise cardiaque 
+- constipation résistant aux traitements laxatifs 
+- maux de tête, changement de l’état mental pouvant conduire à une confusion et un coma, 
+
+convulsions, vision trouble et pression artérielle élevée, qui peuvent être signes d’un désordre 
+neurologique tel que le « Syndrome d’Encéphalopathie Réversible Postérieure » (voir rubrique 2 
+« avertissements et précautions »). 
+
+ 
+Les autres effets indésirables peuvent inclure : 
+Effets indésirables très fréquents (survenant chez plus de 1 personne sur 10) 
+- douleur abdominale, nausée, vomissement, 
+- constipation, diarrhée,  
+- inflammation de la muqueuse buccale, 
+- fatigue, douleur musculaire,  
+- perte du sens du toucher, 
+- perte de poids, diminution de l’appétit, 
+- chute de cheveux, 
+- réactions au site d’injection (douleurs, rougeurs, gonflements), 
+- fièvre, 
+- diminution du nombre de globules blancs, globules rouges et/ou plaquettes (mise en évidence par 
+
+des tests sanguins), 
+- diminution du taux de sodium dans le sang (hyponatrémie). 
+ 
+Effets indésirables fréquents (survenant chez 1 à 10 personnes sur 100) 
+- frissons, transpiration excessive, 
+- allergie, déshydratation, maux de tête, éruption cutanée, démangeaisons, 
+- problème digestif, douleur au niveau de la bouche, de la langue, des dents, altération du goût, 
+- faiblesse musculaire, douleur au niveau de la mâchoire, douleur au niveau des extrémités, douleur 
+
+dorsale, douleur articulaire, douleur musculaire, douleur osseuse, douleur au niveau de l’oreille, 
+- étourdissement, insomnie, perte transitoire de la conscience,  
+- difficulté dans les mouvements du corps, 
+- rythme cardiaque rapide, élévation de la pression artérielle, baisse de la pression artérielle,  
+- difficulté à respirer, toux, douleurs thoraciques, 
+
+
+
+31 
+
+- gonflement de vos bras, mains, pieds, chevilles, jambes ou d’autres parties de votre corps, 
+- inflammation des veines (phlébite). 
+ 
+Effets indésirables peu fréquents (survenant chez 1 à 10 personnes sur 1 000) 
+- trouble visuel,  
+- sécheresse cutanée, rougeurs cutanées 
+- trouble de la contraction musculaire, 
+- douleurs au niveau de la gorge, affections des gencives, 
+- prise de poids, 
+- problèmes urinaires, 
+- bourdonnement des oreilles (acouphènes), 
+- augmentation des enzymes du foie (mise en évidence par des tests sanguins), 
+- «syndrome de sécrétion inappropriée d'hormone antidiurétique », état provoquant de faibles taux 
+
+de sodium dans le sang. 
+ 
+Déclaration des effets secondaires 
+Si vous ressentez un quelconque effet indésirable, parlez-en à votre médecin. Ceci s’applique aussi à 
+tout effet indésirable qui ne serait pas mentionné dans cette notice. Vous pouvez également déclarer 
+les effets indésirables directement via le système national de déclaration décrit en Annexe V. En 
+signalant les effets indésirables, vous contribuez à fournir davantage d’informations sur la sécurité du 
+médicament. 
+ 
+ 
+5. Comment conserver Javlor  
+ 
+Tenir ce médicament hors de la vue et de la portée des enfants. 
+ 
+N’utilisez pas ce médicament après la date de péremption indiquée sur le flacon et la boîte après EXP. 
+La date de péremption fait référence au dernier jour de ce mois. 
+ 
+Il est peu probable qu’on vous demande de garder ce médicament chez vous. 
+Les conditions de stockage sont détaillées dans la section destinée aux professionnels de santé. 
+ 
+Flacon non ouvert  
+A conserver au réfrigérateur (entre 2°C et 8°C). 
+A conserver dans l’emballage extérieur d’origine afin de le protéger de la lumière. 
+ 
+Solution diluée  
+La solution diluée doit être utilisée immédiatement. 
+ 
+Ne jetez aucun médicament au tout-à-l’égout ou avec les ordures ménagères. Demandez à votre 
+pharmacien d’éliminer les médicaments que vous n’utilisez plus. Ces mesures contribueront à 
+protéger l’environnement. 
+ 
+ 
+6. Contenu de l’emballage et autres informations  
+ 
+Ce que contient Javlor 
+- La substance active est vinflunine. Chaque mL de solution à diluer contient 25 mg de 
+
+vinflunine (sous forme de ditartrate). 
+Un flacon de 2 mL contient 50 mg de vinflunine (sous forme de ditartrate). 
+Un flacon de 4 mL contient 100 mg de vinflunine (sous forme de ditartrate). 
+Un flacon de 10 mL contient 250 mg de vinflunine (sous forme de ditartrate). 
+
+- L’autre composant est : eau pour préparations injectables. 
+ 
+
+
+
+
+32 
+
+Qu’est-ce que Javlor et contenu de l’emballage extérieur 
+Javlor est une solution limpide, incolore à jaune pâle. Elle est disponible sous forme de flacons en 
+verre incolore munis d’un bouchon en caoutchouc contenant 2 mL, 4 mL ou 10 mL de solution à 
+diluer. Chaque boîte contient 1 ou 10 flacons. 
+Toutes les présentations peuvent ne pas être commercialisées. 
+ 
+Titulaire de l’Autorisation de mise sur le marché  
+ 
+Pierre Fabre Médicament 
+45, place Abel Gance 
+F-92100 Boulogne  
+France 
+ 
+Fabricant 
+ 
+Pierre Fabre Médicament Production 
+Etablissement Aquitaine Pharm International 
+Avenue du Béarn 
+F-64320 Idron 
+France 
+ 
+Pour toute information complémentaire concernant ce médicament, veuillez prendre contact avec le 
+titulaire de l’Autorisation de Mise sur le Marché. 
+ 
+La dernière date à laquelle cette notice a été révisée est {MM/AAAA}. 
+ 
+Autres sources d’informations 
+Des informations détaillées sur ce médicament sont disponibles sur le site internet de l’Agence 
+européenne des médicaments http://www.ema.europa.eu. 
+ 
+Cette notice est disponible dans toutes les langues de l’UE/EEE sur le site de l’Agence Européenne 
+des Médicaments. 
+ 
+---------------------------------------------------------------------------------------------------------------------------- 
+Les informations suivantes sont destinées exclusivement aux professionnels de la santé : 
+
+INSTRUCTIONS D'UTILISATION 
+ 
+
+Précautions générales pour la préparation et l'administration. 
+Vinflunine est un médicament anticancéreux cytotoxique et, comme avec d’autres molécules 
+potentiellement toxiques, la prudence est requise lors de la manipulation de Javlor. La procédure 
+concernant la manipulation et l’élimination correctes des médicaments anticancéreux doit être 
+appliquée. Toutes les procédures de transfert doivent respecter strictement des techniques aseptiques, 
+de préférence en utilisant une hotte à flux laminaire vertical. Javlor solution pour perfusion doit être 
+préparé et administré uniquement par un personnel formé de manière appropriée à la manipulation des 
+agents cytotoxiques. Les femmes enceintes ne doivent pas manipuler Javlor. L'utilisation de gants, de 
+lunettes de sécurité et de vêtements protecteurs est recommandée. 
+En cas de contact avec la peau, celle-ci devra être lavée immédiatement et abondamment avec de l'eau 
+et du savon. En cas de contact avec les muqueuses, celles-ci devront être abondamment rincées à 
+l'eau.  
+ 
+Reconstitution de la solution à diluer pour perfusion 
+Le volume de Javlor (solution à diluer pour perfusion) correspondant à la dose de vinflunine calculée 
+doit être mélangé dans une poche de 100 mL de solution pour perfusion de chlorure de sodium à 
+9 mg/mL (0,9%). Une solution pour perfusion de glucose à 50 mg/mL (5%) peut également être 
+utilisée. La solution diluée doit rester à l’abri de la lumière jusqu’à l’administration. 
+ 
+
+
+
+33 
+
+Mode d’administration 
+Voie intraveineuse UNIQUEMENT. 
+Javlor est à usage unique. 
+Après reconstitution de Javlor, solution à diluer pour perfusion, la solution doit être administrée 
+comme suit : 
+
+• Un abord veineux doit être mis en place pour une poche de 500 mL de solution pour perfusion 
+de chlorure de sodium à 9 mg/mL (0,9%) ou de glucose à 50 mg/mL (5%). Sur une large veine 
+de préférence sur la partie supérieure de l'avant-bras ou en utilisant un cathéter veineux central. 
+Les veines du dos de la main et celles proches des articulations doivent être évitées 
+
+• La perfusion intraveineuse doit être débutée avec la moitié de la poche de 500 mL de solution 
+pour perfusion de chlorure de sodium à 9 mg/mL (0,9%) ou de glucose à 50 mg/mL (5%), c'est-
+à-dire 250 mL, à un débit libre afin de rincer la veine. 
+
+• Javlor solution pour perfusion doit être placé en dérivation sur le port d'injection latéral le plus 
+proche de la poche de 500 mL afin de continuer à diluer Javlor pendant l'administration. 
+
+• Javlor solution pour perfusion doit être perfusé en 20 minutes. 
+• La perméabilité doit être évaluée fréquemment et les précautions pour éviter les extravasations 
+
+doivent être maintenues pendant toute la durée de la perfusion. 
+• Après la fin de la perfusion, les 250 mL restants de la poche de solution pour perfusion de 
+
+chlorure de sodium à 9 mg/mL (0,9%) ou de glucose à 50 mg/mL (5%) doivent être passés à un 
+débit de 300 mL/h. Afin de rincer la veine, l'administration de Javlor solution pour perfusion 
+doit toujours être suivie de l'administration d'un volume au moins égal de solution pour 
+perfusion de chlorure de sodium à 9 mg/mL (0,9%) ou de glucose à 50 mg/mL (5%). 
+
+ 
+Elimination 
+Tout produit non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur pour 
+les médicaments cytotoxiques. 
+ 
+Conditions de conservation 
+Flacon non ouvert  
+A conserver au réfrigérateur (entre 2°C et 8°C). 
+A conserver dans l’emballage extérieur d'origine à l’abri de la lumière.  
+ 
+Solution diluée  
+La stabilité physico-chimique a été démontrée pour le médicament dilué dans les conditions 
+suivantes : 
+
+- à l'abri de la lumière dans des poches de perfusion en polyéthylène ou chlorure de 
+polyvinyle : jusqu’à 6 jours au réfrigérateur (entre 2°C et 8°C) ou jusqu’à 24 heures à 25°C 
+- en cas d'exposition à la lumière dans la tubulure de perfusion en polyéthylène ou chlorure de 
+polyvinyle : jusqu’à 1 heure à 25°C. 
+
+ 
+D’un point de vue microbiologique, le produit doit être utilisé immédiatement après dilution. Si 
+l’utilisation n’est pas immédiate, les conditions et la durée de conservation avant utilisation sont de la 
+responsabilité de l’utilisateur, et ne devraient normalement pas excéder 24 heures entre 2°C et 8°C, 
+sauf si la dilution a été réalisée dans des conditions aseptiques contrôlées et validées. 
+
+
+
+34 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEXE IV 
+ 
+ 
+
+Conclusions et bases scientifiques recommandant la modification des termes de l’Autorisation 
+de Mise sur le Marché 
+
+ 
+ 
+
+ 
+
+
+
+35 
+
+Conclusions scientifiques 
+ 
+Tenant compte du rapport d’évaluation du PSUR de Javlor émis par le PRAC, les conclusions 
+scientifiques du PRAC sont les suivantes: 
+ 
+Les informations de sécurité rapportées dans la période couverte par ce rapport sont généralement en 
+ligne avec le profil de sécurité connu de la vinflunine. Bien qu’aucun nouveau problème de sécurité 
+n’ait été identifié, le titulaire de l’Autorisation de Mise sur le Marché a proposé deux modifications au 
+sein de l’information produit. 
+ 
+Le titulaire de l’Autorisation de Mise sur le Marché a proposé d’ajouter une précaution d’emploi au 
+sein de la rubrique 4.4 du RCP au regard du risque d’hyponatrémie, incluant les cas dus au Syndrome 
+de Sécrétion Inappropriée d'Hormone Antidiurétique, identifié comme un risque au sein du PSUR 
+précédent et inclus dans le RCP en tant qu’effet indésirable listé.  
+Etant donné la fréquence élevée des cas d’hyponatrémie de grade 3 ou 4 (11,7%), incluant un cas 
+fatal, l'impact négatif de l'hyponatrémie sur la survie des patients atteints de cancer et le fait qu’elle 
+puisse potentiellement provoquer de graves séquelles du SNC (ex : confusion, convulsions), cette 
+proposition a été approuvée. 
+ 
+Enfin, le titulaire de l’Autorisation de Mise sur le Marché a proposé des modifications mineures à la 
+liste des effets indésirables inclus au sein de la rubrique 4.8 du RCP dans le but d’assurer une 
+cohérence dans le codage de ces effets indésirables. Ces changements n’ont pas d’impact sur les 
+catégories de fréquences des EIs listés sauf pour « neuropathie périphérique sensitive » qui passe de 
+fréquent à très fréquent et « douleur tumorale », qui est désormais classée en peu fréquent (la 
+fréquence précédente était indéterminée).  
+ 
+Aucun nouvel effet indésirable n’a été ajouté et aucun effet indésirable n’a été supprimé, l’effet 
+indésirable « anorexie » a été re-classifié en « diminution de l’appétit ». Ces  modifications sont 
+considérées comme acceptables. 
+ 
+
+Le CHMP est d’accord avec les conclusions scientifiques émises par le PRAC. 
+
+Motifs recommandant la modification des termes de l’Autorisation de Mise sur le Marché  
+
+Sur la base des conclusions scientifiques pour Javlor, le CHMP est d’avis que le rapport bénéfice-
+risque du produit médicinal contenant la substance active VINFLUNINE DITARTRATE est 
+favorable au regard des changements proposés à l’information produit. 
+
+Le CHMP recommande de modifier les termes de l’Autorisation de Mise sur le Marché.  
+
+ 
+
+ 
+
+
+	RESUME DES CARACTERISTIQUES DU PRODUIT
+	A. FABRIQUANT(S) RESPONSABLE(S) DE LA LIBERATION DES LOTS
+	B. CONDITIONS OU RESTRICTIONS DE DELIVRANCE ET D’UTILISATION
+	C. AUTRES CONDITIONS ET OBLIGATIONS DE L’AUTORISATION DE MISE SURLE MARCHE
+	D. CONDITIONS OU RESTRICTIONS EN VUE D’UNE UTILISATION SÛRE ETEFFICACE DU MÉDICAMENT
+	A. ÉTIQUETAGE
+	B. NOTICE
+	Conclusions et bases scientifiques recommandant la modification des termes de l’Autorisationde Mise sur le Marché
