@@ -49,3 +49,6 @@ These two json files made up the French SPC corpus and are compressed with the f
 tar -zcf html_spc.tar.gz html_spc.json
 tar -zcf pdf_spc.tar.gz pdf_spc.json
 ```
+
+## Acknowledgments
+This repository is part of the DRUGS-SAFER research program, funded by the French Medicines Agency (Agence Nationale de Sécurité du Médicament et des Produits de Santé, ANSM). This work represents the views of the authors and does not necessarily represent the opinion of the French Medicines Agency.
